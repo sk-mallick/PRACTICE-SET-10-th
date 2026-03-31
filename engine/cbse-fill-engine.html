@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fill Practice - ENGLISHJIBI</title>
+    <link rel="icon" type="image/png" href="../assets/favicon.png">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Confetti: deferred to avoid render-blocking -->
+    <script defer src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <!-- Modulepreload: tells browser to fetch+parse modules BEFORE execution discovers them -->
+    <link rel="modulepreload" href="../js/ui.js">
+    <link rel="modulepreload" href="../js/fill-engine.js">
+    <style>
+        body { background-color: #020617; font-family: 'Inter', sans-serif; }
+        .effect-disabled .slash-line { display: block; }
+        .effect-disabled { opacity: 0.7; }
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #0f172a; }
+        ::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col pt-[70px] sm:pt-[90px] pb-20">
+    
+    <div id="header-mount"></div>
+
+    <main id="quiz-container" class="w-full max-w-[1920px] mx-auto px-4 flex-grow flex flex-col gap-3 pt-6 relative z-0">
+        <div class="text-center text-slate-500 animate-pulse mt-20">Loading Engine...</div>
+    </main>
+
+    <script type="module" src="../js/fill-engine.js"></script>
+</body>
+</html>

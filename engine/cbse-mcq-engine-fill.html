@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fill in the Blanks - ENGLISHJIBI</title>
+    <link rel="icon" type="image/png" href="../assets/favicon.png">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <link rel="modulepreload" href="../js/ui.js">
+    <style>
+        body {
+            background-color: #020617;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .effect-disabled .slash-line {
+            display: block;
+        }
+
+        .effect-disabled {
+            opacity: 0.7;
+        }
+
+        /* Clean scrollbar */
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #0f172a;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #334155;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+
+<body class="min-h-screen flex flex-col pt-[85px] sm:pt-[120px] pb-20">
+
+    <div id="header-mount"></div>
+
+    <main id="quiz-container" class="w-full max-w-[98%] mx-auto px-4 space-y-4 flex-grow relative z-0">
+        <div class="text-center text-slate-500 animate-pulse mt-20">Loading Engine...</div>
+    </main>
+
+    <script type="module">
+        import { Sound, Effects, injectHeader, injectFooter, injectMenu, getParams, discoverSetsFromConfig, discoverSetsFallback, UX, initPrintProtection } from '../js/ui.js';
+
+        let allQuestions = [];
+        let displayQuestions = [];
+        let currentSetId = 1;
+        let availableSets = [1];
+
+        async function init() {
+            initPrintProtection();
+
+            const urlParams = new URLSearchParams(window.location.search);
+            const set = urlParams.get('set') || '1';
+            currentSetId = parseInt(set);
+
+            const container = document.getElementById('quiz-container');
+            if (!container) return;
+            container.innerHTML = Array(5).fill(UX.Skeletons.getMCQSkeleton()).join('');
+
+            const configPath = `../data/cbse/class10/fill-in-blanks/config.js`;
+            const dataUrl = `../data/cbse/class10/fill-in-blanks/set${set}.json`;
+
+            const [config, dataResult] = await Promise.all([
+                import(configPath).then(m => m.default).catch(() => ({})),
+                fetch(dataUrl).then(res => {
+                    if (!res.ok) throw new Error("Set not found");
+                    return res.json();
+                }).catch(e => ({ error: true, message: e.message, url: dataUrl }))
+            ]);
+
+            injectHeader(
+                config.headerTitle || 'Fill in the Blanks',
+                `${config.headerSubtitlePrefix || "By Chiranjibi Sir"} • ${config.level || "CLASS 10"} • SET ${set}`
+            );
+            injectFooter();
+
+            const configSets = discoverSetsFromConfig(config);
+            availableSets = configSets || await discoverSetsFallback('cbse', 'class10/fill-in-blanks');
+
+            if (dataResult && dataResult.error) {
+                container.innerHTML = `<div class="text-center py-20 text-slate-500 font-bold">Failed to load: ${dataResult.url}<br>${dataResult.message}</div>`;
+                setupMenu();
+                return;
+            }
+
+            if (!Array.isArray(dataResult)) {
+                container.innerHTML = `<div class="text-center py-20 text-slate-500 font-bold">Invalid data format</div>`;
+                setupMenu();
+                return;
+            }
+
+            // Validate questions
+            const validQuestions = dataResult.filter((q, idx) => {
+                if (!q || typeof q !== 'object') return false;
+                if (q.type === 'paragraph') {
+                    return q.passage && Array.isArray(q.blanks) && q.blanks.length > 0;
+                }
+                if (!q.q || typeof q.q !== 'string') return false;
+                if (!Array.isArray(q.options) || q.options.length < 2) return false;
+                if (q.answer === undefined || q.answer === null || q.answer < 0 || q.answer >= q.options.length) return false;
+                return true;
+            });
+
+            allQuestions = validQuestions;
+            displayQuestions = [...allQuestions];
+
+            UX.prefetchNextSet('cbse', 'class10/fill-in-blanks', set);
+
+            setupMenu();
+            render();
+        }
+
+        function setupMenu() {
+            injectMenu(
+                currentSetId,
+                availableSets,
+                (newSet) => { window.location.href = `?set=${newSet}`; },
+                (filterType) => {
+                    if (filterType === 'odd') displayQuestions = allQuestions.filter((_, i) => (i + 1) % 2 !== 0);
+                    if (filterType === 'even') displayQuestions = allQuestions.filter((_, i) => (i + 1) % 2 === 0);
+                    render();
+                    closeMenu();
+                },
+                (count) => { generateRandomQuestions(count); }
+            );
+        }
+
+        async function generateRandomQuestions(count) {
+            const c = parseInt(count) || 10;
+            const container = document.getElementById('quiz-container');
+            container.innerHTML = '<div class="text-center py-20 text-slate-400"><p>🔄 Loading questions from all sets...</p></div>';
+
+            try {
+                let allCombined = [];
+                for (const setNum of availableSets) {
+                    try {
+                        const response = await fetch(`../data/cbse/class10/fill-in-blanks/set${setNum}.json`);
+                        if (response.ok) {
+                            const setQ = await response.json();
+                            if (Array.isArray(setQ)) allCombined = allCombined.concat(setQ);
+                        }
+                    } catch (e) { console.warn(`Failed to load set${setNum}:`, e); }
+                }
+
+                if (allCombined.length === 0) {
+                    container.innerHTML = '<div class="text-center py-20 text-red-500">❌ No questions found</div>';
+                    return;
+                }
+
+                const validQuestions = allCombined.filter(q => {
+                    if (q.type === 'paragraph') return q.passage && Array.isArray(q.blanks);
+                    return q && q.q && Array.isArray(q.options) && q.options.length >= 2 && q.answer !== undefined;
+                });
+
+                const shuffled = UX.fisherYatesShuffle(validQuestions);
+                displayQuestions = shuffled.slice(0, Math.min(c, validQuestions.length));
+                render();
+                closeMenu();
+            } catch (e) {
+                container.innerHTML = `<div class="text-center py-20 text-red-500">❌ Error: ${e.message}</div>`;
+            }
+        }
+
+        function closeMenu() {
+            const menu = document.getElementById('teacher-menu');
+            if (menu) menu.classList.remove('open');
+        }
+
+        function render() {
+            const container = document.getElementById('quiz-container');
+            if (!container) return;
+            container.innerHTML = '';
+
+            if (!displayQuestions || displayQuestions.length === 0) {
+                container.innerHTML = `<div class="text-center py-20 text-slate-500">No questions found.</div>`;
+                return;
+            }
+
+            const fragment = document.createDocumentFragment();
+            displayQuestions.forEach((q, index) => {
+                if (q.type === 'paragraph') {
+                    buildPassageCard(q, index, fragment);
+                } else {
+                    buildMCQCard(q, index, fragment);
+                }
+            });
+            container.appendChild(fragment);
+
+            requestAnimationFrame(() => {
+                UX.staggerElements('.quiz-card-entry', 30);
+            });
+        }
+
+        // === SINGLE MCQ CARD (Standard layout) ===
+        function buildMCQCard(item, index, parent) {
+            if (!item || !item.options || !Array.isArray(item.options) || item.answer === undefined) {
+                console.warn('Invalid question format at index', index, item);
+                return;
+            }
+
+            const displayNum = index + 1;
+            const yearText = item.year !== undefined && item.year !== null ? String(item.year).trim() : '';
+
+            const correctText = item.options[item.answer];
+            let opts = item.options.map((opt, i) => ({ text: opt, originalIndex: i }));
+            opts = UX.fisherYatesShuffle(opts);
+            const newAnswerIndex = opts.findIndex(o => o.text === correctText);
+
+            if (newAnswerIndex === -1) {
+                console.warn('Correct answer not found in shuffled options for question', index);
+                return;
+            }
+
+            const card = document.createElement('div');
+            card.className = "opacity-0 quiz-card-entry bg-[#1e293b] rounded-xl md:rounded-2xl shadow-2xl border-2 border-slate-700 overflow-hidden break-inside-avoid mb-4";
+            card.setAttribute('data-answered', 'false');
+
+            // Create question text with fillable blank (border-bottom only, no text underscores)
+            const blankId = `mcq-blank-${index}`;
+            const questionHtml = (item.q || '').replace(/_{2,}/g, `<span id="${blankId}" class="inline-block border-b-2 border-slate-400 min-w-[80px] text-center transition-all duration-300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>`);
+
+            const header = document.createElement('div');
+            header.className = "bg-[#0f172a] px-4 py-3 md:px-6 md:py-4 border-b border-slate-700 flex flex-wrap md:flex-nowrap gap-3 md:gap-4 items-start";
+            header.innerHTML = `
+                <div class="flex flex-col gap-1.5 md:flex-row md:gap-0">
+                    <span class="font-black text-blue-400 text-lg md:text-xl whitespace-nowrap mt-0.5 bg-blue-900/30 px-3 py-1 rounded-lg border border-blue-800 shadow-[0_0_10px_rgba(30,58,138,0.5)]">Q${displayNum}</span>
+                    ${yearText ? `<span class="inline-flex md:hidden items-center self-start px-2.5 py-1 rounded-full border border-cyan-700/60 bg-cyan-900/25 text-cyan-200 text-xs font-bold tracking-wide shadow-sm">${yearText}</span>` : ''}
+                </div>
+                <div class="min-w-0 flex-1 order-last md:order-none w-full md:w-auto">
+                    <p class="text-white font-bold text-lg md:text-xl leading-relaxed tracking-wide pt-0.5">${questionHtml}</p>
+                </div>
+                ${yearText ? `<span class="hidden md:inline-flex items-center self-start mt-0.5 shrink-0 px-2.5 py-1 rounded-full border border-cyan-700/60 bg-cyan-900/25 text-cyan-200 text-xs font-bold tracking-wide shadow-sm">${yearText}</span>` : ''}
+            `;
+
+            const optsDiv = document.createElement('div');
+            optsDiv.className = "p-4 md:p-6 grid grid-cols-1 md:grid-cols-2 gap-3 md:gap-4";
+
+            const letters = ['A', 'B', 'C', 'D'];
+            opts.forEach((optObj, i) => {
+                const btn = document.createElement('button');
+                btn.className = "option-btn w-full text-left px-4 py-3 md:px-5 md:py-4 rounded-lg md:rounded-xl border-2 border-slate-600 text-slate-100 font-bold text-base md:text-lg bg-slate-800 hover:bg-slate-700 hover:border-slate-500 focus:outline-none relative overflow-hidden group flex items-center shadow-lg transition-all transform active:scale-95";
+                btn.innerHTML = `
+                    <span class="badge-default inline-flex items-center justify-center w-8 h-8 rounded-lg text-sm font-black mr-3 transition-colors shrink-0 border border-slate-500 bg-slate-700 text-slate-400 group-hover:border-slate-400">${letters[i]}</span>
+                    <span class="flex-1">${optObj.text}</span>
+                `;
+                btn.onclick = () => handleAnswer(btn, i, newAnswerIndex, optsDiv, card, blankId, optObj.text);
+                optsDiv.appendChild(btn);
+            });
+
+            card.appendChild(header);
+            card.appendChild(optsDiv);
+            parent.appendChild(card);
+        }
+
+        // === PASSAGE CARD (Matrix layout: Rows = A,B,C,D | Columns = blanks a,b,c,d) ===
+        function buildPassageCard(item, index, parent) {
+            if (!item || !item.blanks || !Array.isArray(item.blanks)) return;
+
+            const displayNum = index + 1;
+            const yearText = item.year ? String(item.year).trim() : '';
+            const blanks = item.blanks;
+            const numBlanks = blanks.length;
+
+            const card = document.createElement('div');
+            card.className = "opacity-0 quiz-card-entry bg-[#1e293b] rounded-xl md:rounded-2xl shadow-2xl border-2 border-slate-700 overflow-hidden break-inside-avoid mb-4";
+            
+            // Track answered blanks
+            card.blankStates = {};
+            blanks.forEach(b => { card.blankStates[b.id] = 'pending'; });
+
+            // === HEADER with passage ===
+            const header = document.createElement('div');
+            header.className = "bg-[#0f172a] px-4 py-3 md:px-6 md:py-4 border-b border-slate-700";
+            
+            // Top row: Q badge + passage + year (responsive)
+            const headerTop = document.createElement('div');
+            headerTop.className = "flex gap-3 md:gap-4 items-start";
+            
+            // Q Badge container (Q number + year below on mobile/multi-line)
+            const qContainer = document.createElement('div');
+            qContainer.className = "flex flex-col items-center gap-2 shrink-0";
+            
+            const qBadge = document.createElement('span');
+            qBadge.className = "font-black text-blue-400 text-base md:text-lg whitespace-nowrap bg-blue-900/30 px-3 py-1.5 rounded-lg border border-blue-800 shadow-[0_0_10px_rgba(30,58,138,0.5)]";
+            qBadge.textContent = `Q${displayNum}`;
+            qContainer.appendChild(qBadge);
+            
+            // Year badge - will be positioned based on content length
+            let yearBadge = null;
+            if (yearText) {
+                yearBadge = document.createElement('span');
+                yearBadge.className = "inline-flex items-center shrink-0 px-2.5 py-1 rounded-full border border-cyan-700/60 bg-cyan-900/25 text-cyan-200 text-xs font-bold tracking-wide shadow-sm";
+                yearBadge.textContent = yearText;
+            }
+            
+            const passageContainer = document.createElement('div');
+            passageContainer.className = "min-w-0 flex-1";
+            
+            const passageText = document.createElement('p');
+            passageText.className = "text-white font-bold text-base md:text-lg leading-relaxed tracking-wide";
+            
+            // Replace blank markers __(a)__ with simple underline + letter (old style)
+            let passageHtml = item.passage;
+            blanks.forEach((blank, idx) => {
+                const regex = new RegExp(`__\\(${blank.id}\\)__`, 'g');
+                const rowLetter = ['A', 'B', 'C', 'D', 'E', 'F'][idx];
+                passageHtml = passageHtml.replace(regex, 
+                    `<span id="passage-blank-${index}-${blank.id}" class="inline-block min-w-[60px] md:min-w-[80px] border-b-2 border-slate-400 text-slate-400 text-center font-bold mx-1 transition-all duration-300">${rowLetter}</span>`
+                );
+            });
+            passageText.innerHTML = passageHtml;
+            passageContainer.appendChild(passageText);
+            
+            headerTop.appendChild(qContainer);
+            headerTop.appendChild(passageContainer);
+            
+            // Desktop: year always on right top
+            // Mobile: year below Q badge
+            if (yearBadge) {
+                // Desktop year badge - always on right
+                const yearDesktop = yearBadge.cloneNode(true);
+                yearDesktop.className = "hidden md:inline-flex items-center self-start mt-0.5 shrink-0 px-2.5 py-1 rounded-full border border-cyan-700/60 bg-cyan-900/25 text-cyan-200 text-xs font-bold tracking-wide shadow-sm";
+                headerTop.appendChild(yearDesktop);
+                
+                // Mobile year badge - below Q badge
+                yearBadge.className = "inline-flex md:hidden items-center shrink-0 px-2.5 py-1 rounded-full border border-cyan-700/60 bg-cyan-900/25 text-cyan-200 text-xs font-bold tracking-wide shadow-sm";
+                qContainer.appendChild(yearBadge);
+            }
+            
+            header.appendChild(headerTop);
+            card.appendChild(header);
+
+            // === OPTIONS MATRIX SECTION ===
+            // Structure: Rows = A, B, C (blanks), Columns = 1, 2, 3, 4 (options)
+            const optionsSection = document.createElement('div');
+            optionsSection.className = "p-3 md:p-5";
+
+            // Prepare shuffled options for each blank
+            const blankOptions = [];
+            blanks.forEach((blank) => {
+                const correctText = blank.options[blank.answer];
+                let opts = blank.options.map(opt => ({ text: opt, isCorrect: opt === correctText }));
+                opts = UX.fisherYatesShuffle(opts);
+                blankOptions.push(opts);
+            });
+
+            const rowLetters = ['A', 'B', 'C', 'D', 'E', 'F'];
+            const numRows = blanks.length; // Rows = number of blanks
+            const numCols = blanks.length > 0 ? blanks[0].options.length : 4; // Columns = number of options
+
+            // Add responsive grid style
+            const styleId = 'passage-grid-style';
+            if (!document.getElementById(styleId)) {
+                const style = document.createElement('style');
+                style.id = styleId;
+                style.textContent = `
+                    .passage-opts-grid { grid-template-columns: repeat(2, 1fr); }
+                    @media (min-width: 768px) {
+                        .passage-opts-grid { grid-template-columns: repeat(var(--num-cols), 1fr) !important; }
+                    }
+                `;
+                document.head.appendChild(style);
+            }
+
+            // Create matrix rows (A, B, C = blanks)
+            blanks.forEach((blank, rowIdx) => {
+                const row = document.createElement('div');
+                row.className = "flex items-stretch gap-2 md:gap-3 mb-2 md:mb-3";
+                row.setAttribute('data-row', rowIdx);
+                row.setAttribute('data-blank-id', blank.id);
+
+                // Row letter badge (A, B, C = blank labels)
+                const rowBadge = document.createElement('span');
+                rowBadge.className = "inline-flex items-center justify-center w-10 md:w-12 rounded-xl text-base md:text-lg font-black shrink-0 border-2 border-slate-600 bg-slate-800 text-slate-300";
+                rowBadge.textContent = rowLetters[rowIdx];
+                row.appendChild(rowBadge);
+
+                // Options container - grid: 2x2 on mobile, 1x4 on desktop
+                const optsContainer = document.createElement('div');
+                optsContainer.className = "flex-1 grid gap-1.5 md:gap-3 passage-opts-grid";
+                optsContainer.style.setProperty('--num-cols', numCols);
+
+                // Each column is an option (1, 2, 3, 4)
+                blankOptions[rowIdx].forEach((optObj, colIdx) => {
+                    const btn = document.createElement('button');
+                    btn.className = "w-full text-left px-3 py-2.5 md:px-4 md:py-3 rounded-lg border-2 border-slate-600 text-slate-100 font-semibold text-sm md:text-base bg-slate-700/80 hover:bg-slate-600 hover:border-slate-400 focus:outline-none shadow-md transition-all transform active:scale-[0.98]";
+                    btn.innerHTML = `<span class="text-slate-400 font-bold">${colIdx + 1}.</span> ${optObj.text}`;
+                    btn.setAttribute('data-blank-id', blank.id);
+                    btn.setAttribute('data-option-col', colIdx);
+                    btn.setAttribute('data-row', rowIdx);
+                    
+                    btn.onclick = () => handlePassageAnswer(btn, optObj, blank.id, rowIdx, colIdx, card, index, row);
+                    optsContainer.appendChild(btn);
+                });
+
+                row.appendChild(optsContainer);
+                optionsSection.appendChild(row);
+            });
+
+            card.appendChild(optionsSection);
+            parent.appendChild(card);
+        }
+
+        function handlePassageAnswer(btn, optObj, blankId, rowIdx, colIdx, card, cardIndex, rowElement) {
+            // Check if this blank (row) is already answered
+            if (card.blankStates[blankId] === 'correct') return;
+
+            btn.style.transform = "scale(0.95)";
+
+            const passageBlank = document.getElementById(`passage-blank-${cardIndex}-${blankId}`);
+
+            if (optObj.isCorrect) {
+                Sound.playCorrect();
+                
+                // Mark button as correct
+                btn.className = "w-full text-left px-3 py-2.5 md:px-4 md:py-3 rounded-lg border-2 border-[#22c55e] bg-[#16a34a] text-white font-semibold text-sm md:text-base shadow-[0_0_12px_rgba(34,197,94,0.4)] transition-all duration-200";
+                btn.style.transform = "scale(1)";
+
+                // Update passage blank - simple underline with answer
+                if (passageBlank) {
+                    passageBlank.textContent = optObj.text;
+                    passageBlank.className = "inline-block min-w-[60px] md:min-w-[80px] border-b-2 border-green-500 text-green-400 text-center font-bold mx-1 transition-all duration-300";
+                }
+
+                card.blankStates[blankId] = 'correct';
+
+                // Disable all other buttons in the same row (same blank)
+                const allBtnsInRow = rowElement.querySelectorAll(`button[data-blank-id="${blankId}"]`);
+                allBtnsInRow.forEach(b => {
+                    if (b !== btn) {
+                        b.disabled = true;
+                        b.classList.add('opacity-40', 'cursor-not-allowed');
+                        b.classList.remove('hover:bg-slate-600', 'hover:border-slate-400');
+                    }
+                });
+
+                // Check if ALL blanks are correct for confetti
+                const allCorrect = Object.values(card.blankStates).every(s => s === 'correct');
+                if (allCorrect) Effects.triggerConfetti();
+
+            } else {
+                setTimeout(() => {
+                    Sound.playWrong();
+                    btn.className = "w-full text-left px-3 py-2.5 md:px-4 md:py-3 rounded-lg border-2 border-[#ef4444] bg-[#dc2626] text-white font-semibold text-sm md:text-base shadow-[0_0_12px_rgba(239,68,68,0.4)] animate-shake transition-all";
+                    btn.disabled = true;
+                    btn.style.transform = "scale(1)";
+                }, 150);
+            }
+        }
+
+        function handleAnswer(btn, index, correctIndex, container, card, blankId, answerText) {
+            const badge = btn.querySelector('span');
+            btn.style.transform = "scale(0.98)";
+
+            if (btn.classList.contains('animate-shake')) {
+                btn.classList.remove('animate-shake');
+                requestAnimationFrame(() => {
+                    requestAnimationFrame(() => {
+                        processAnswer(btn, index, correctIndex, badge, container, card, blankId, answerText);
+                    });
+                });
+            } else {
+                processAnswer(btn, index, correctIndex, badge, container, card, blankId, answerText);
+            }
+        }
+
+        function processAnswer(btn, index, correctIndex, badge, container, card, blankId, answerText) {
+            if (index === correctIndex) {
+                Sound.playCorrect();
+                Effects.triggerConfetti();
+
+                btn.className = "option-btn w-full text-left px-4 py-3 md:px-5 md:py-4 rounded-lg md:rounded-xl border-2 border-[#22c55e] bg-[#16a34a] text-white font-bold text-base md:text-lg shadow-[0_0_15px_rgba(34,197,94,0.4)] flex items-center opacity-100 transition-all duration-200";
+                if (badge) badge.className = "inline-flex items-center justify-center w-8 h-8 rounded-lg text-sm font-black mr-3 shrink-0 border border-white text-white bg-transparent";
+
+                // Fill in the blank with correct answer
+                const blankEl = document.getElementById(blankId);
+                if (blankEl) {
+                    blankEl.textContent = answerText;
+                    blankEl.className = "inline-block border-b-2 border-green-500 text-green-400 min-w-[80px] text-center font-bold transition-all duration-300";
+                }
+
+                btn.style.transform = "scale(1)";
+                card.setAttribute('data-answered', 'true');
+
+            } else {
+                setTimeout(() => {
+                    Sound.playWrong();
+                    btn.className = "option-btn w-full text-left px-4 py-3 md:px-5 md:py-4 rounded-lg md:rounded-xl border-2 border-[#ef4444] bg-[#dc2626] text-white font-bold text-base md:text-lg shadow-[0_0_15px_rgba(239,68,68,0.4)] animate-shake flex items-center opacity-100";
+                    if (badge) badge.className = "inline-flex items-center justify-center w-8 h-8 rounded-lg text-sm font-black mr-3 shrink-0 border border-white text-white bg-transparent";
+                    btn.style.transform = "scale(1)";
+                }, 150);
+            }
+        }
+
+        init();
+    </script>
+</body>
+
+</html>

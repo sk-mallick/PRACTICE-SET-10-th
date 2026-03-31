@@ -1,0 +1,230 @@
+[
+  { "type": "single", "year": "2025", "q": "As I entered the room, the first thing that struck me as odd, was the candle still _______ on the table.", "options": ["burn", "burning", "burned", "has burned"], "answer": 1 },
+  { "type": "single", "year": "2025", "q": "A mask is used to hide the identity _______ a person.", "options": ["of", "for", "being", "at"], "answer": 0 },
+  { "type": "single", "year": "2025", "q": "There are many inventions of science _______ have benefitted human beings in many ways.", "options": ["those", "which", "such", "what"], "answer": 1 },
+  { "type": "single", "year": "2025", "q": "In our country, _______ universities offer a range of courses. That's why foreign students prefer Indian universities.", "options": ["more", "each", "many", "few"], "answer": 2 },
+  { "type": "single", "year": "2025", "q": "The report concludes that _______ learners have _______ knowledge of astrophysics.", "options": ["very few / some", "some / every", "every / no", "no / a lot of"], "answer": 0 },
+  { "type": "single", "year": "2025", "q": "He was a renowned business person. He _______ (purchase) a house in the city last year.", "options": ["purchase", "purchased", "has purchased", "is purchasing"], "answer": 1 },
+  { "type": "single", "year": "2025", "q": "It _______ be our concerted effort not to employ children in industries and to save them from any kind of exploitation.", "options": ["may", "should", "could", "must"], "answer": 1 },
+  { "type": "single", "year": "2025", "q": "When they began to play it _______ to rain.", "options": ["start", "started", "starts", "having started"], "answer": 1 },
+  { "type": "single", "year": "2025", "q": "The teacher distributed a piece of paper to _______ student.", "options": ["few", "all", "many", "each"], "answer": 3 },
+  { "type": "single", "year": "2025", "q": "Oral hygiene _______ be inculcated in children early in life.", "options": ["should", "would", "will", "can"], "answer": 0 },
+  { "type": "single", "year": "2025", "q": "The information given here _______ to all the products in this section.", "options": ["apply", "applied", "is applied", "applies"], "answer": 3 },
+  { "type": "single", "year": "2025", "q": "Please do not hesitate to contact me if I can be of _______ (assist) in any way.", "options": ["assist", "assistance", "assisted", "assisting"], "answer": 1 },
+  { "type": "single", "year": "2025", "q": "A notice is a type of social _______ used to notify or present information to a specific set of people.", "options": ["conversation", "conveyance", "communication", "connection"], "answer": 2 },
+  { "type": "single", "year": "2025", "q": "After she _______ her homework, Anaisha finally relaxed and watched a movie with her friends.", "options": ["finished", "had finished", "have finished", "will finish"], "answer": 1 },
+  { "type": "single", "year": "2025", "q": "Welcome to our website! You _______ enjoy 10 percent off on your first purchase with code WELCOME.", "options": ["may", "will", "should", "might"], "answer": 0 },
+  { "type": "single", "year": "2025", "q": "Since morning the group of students _______ excited about the forthcoming cultural fest.", "options": ["are", "was", "has been", "were"], "answer": 0 },
+  { "type": "single", "year": "2024 C", "q": "People who do not recycle items like bottles and cans _______ the world's resources.", "options": ["will waste", "have wasted", "waste", "are wasted"], "answer": 2 },
+  { "type": "single", "year": "2024 C", "q": "I feel certain that Soham _______ in his new business because he works so hard all the time.", "options": ["is succeeding", "will succeed", "has succeeded", "will be succeeding"], "answer": 1 },
+  { "type": "single", "year": "2024 C", "q": "This is to inform you that our school has _______ (decide) to place an order with your company for computers.", "options": ["decide", "decided", "deciding", "will decide"], "answer": 1 },
+  { "type": "single", "year": "2024 C", "q": "Several new species of plants have recently _______ (discover).", "options": ["discovered", "been discovered", "being discovered", "have discovered"], "answer": 1 },
+  { "type": "single", "year": "2024 C", "q": "I _______ ask my bank manager for a loan, and luckily, I managed to get it.", "options": ["had to", "need to", "used to", "ought to"], "answer": 0 },
+  { "type": "single", "year": "2024 C", "q": "It was so dark that I fell down the stairs last night. I _______ fixed the light.", "options": ["must have", "would have", "could have", "should have"], "answer": 3 },
+  { "type": "single", "year": "2024 C", "q": "I am also enclosing documents _______ (mention) our terms and conditions with this letter.", "options": ["mention", "mentioned", "mentioning", "to mention"], "answer": 1 },
+  { "type": "single", "year": "2024", "q": "Students who want to participate in the Annual Day _______ report to the Auditorium Hall at 12:30 pm tomorrow.", "options": ["could", "may", "should", "will"], "answer": 1 },
+  { "type": "single", "year": "2024", "q": "Temperature may drop and wind may increase as you _______ higher.", "options": ["climb", "will climb", "climbed", "climbing"], "answer": 0 },
+  { "type": "single", "year": "2024", "q": "The Student Council election of the school for the current session _______ held on 23rd May at 2:30 pm.", "options": ["may be", "should be", "can be", "will be"], "answer": 3 },
+  { "type": "single", "year": "2024", "q": "Nations today are _______ in a rat race for producing more radioactive waste.", "options": ["caught up", "catching up", "caught", "catching"], "answer": 1 },
+  { "type": "single", "year": "2024", "q": "Kindly pay heed to our request and provide the students with _______ (adequacy) support on their project.", "options": ["adequate", "adequacy", "adequately", "adequate enough"], "answer": 0 },
+  { "type": "single", "year": "2024", "q": "_______ people. Magnify their strengths, not their weaknesses. — Joyce Meyer", "options": ["Complement", "Compliment", "Compliance", "Complete"], "answer": 1 },
+  { "type": "single", "year": "2024", "q": "I don't know anyone else who _______ to the new theatre production yet.", "options": ["has been", "have been", "are going", "were going"], "answer": 0 },
+  { "type": "single", "year": "2024", "q": "The car has a divider to separate the front passengers from the rear, in case you want _______ around like Miss Daisy.", "options": ["to be driven", "to driving", "the drive", "the driving"], "answer": 0 },
+  { "type": "single", "year": "2024", "q": "Save the green and blue before our future generation _______ everything black.", "options": ["may paint", "has to paint", "should paint", "could paint"], "answer": 1 },
+  { "type": "single", "year": "2024", "q": "Attached is the invoice that _______ (detail) the expenses incurred during the team's business trip.", "options": ["detail", "detailed", "details", "detailing"], "answer": 2 },
+  { "type": "single", "year": "2024", "q": "Attached is the new company policy on remote work and _______ should be distributed to all employees as soon as possible.", "options": ["it", "these", "them", "those"], "answer": 0 },
+  { "type": "single", "year": "2024", "q": "My visit to the historical museum left me _______ deeply appreciative of our ancestors' struggles and achievements.", "options": ["being", "was", "been", "to be"], "answer": 0 },
+  { "type": "single", "year": "2024", "q": "Our school's art team _______ the top spot in the state-level competition.", "options": ["won", "win", "is winning", "has win"], "answer": 0 },
+  { "type": "single", "year": "2024", "q": "The snowflakes and ice _______ your warmth.", "options": ["crave", "craves", "craved", "shall crave"], "answer": 0 },
+  { "type": "single", "year": "2024", "q": "It was agreed that the teacher would _______ (organise) the science fair for the students of grade B.", "options": ["organise", "organised", "will organise", "have organised"], "answer": 0 },
+  { "type": "single", "year": "2024", "q": "The quarterly performance report is attached and _______ requires immediate attention from the management team.", "options": ["these", "that", "it", "they"], "answer": 2 },
+  { "type": "single", "year": "2023 C", "q": "A homestay is _______ (stay) in someone's house as a paying guest for a short period of time.", "options": ["stay", "staying", "stayed", "to stay"], "answer": 1 },
+  { "type": "single", "year": "2023 C", "q": "It _______ (rain) since yesterday.", "options": ["rained", "has been raining", "is raining", "rains"], "answer": 1 },
+  { "type": "single", "year": "2023 C", "q": "The hikers trudged up the narrow _______ (wind) path on the fourth day of the trek.", "options": ["wind", "winding", "windy", "winds"], "answer": 1 },
+  { "type": "single", "year": "2023 C", "q": "His offence was grave, but he _______ with a fine.", "options": ["got back", "got through", "got over", "got off"], "answer": 3 },
+  { "type": "single", "year": "2023 C", "q": "With your cooperation, we _______ win the match.", "options": ["must", "ought", "shouldn't", "might"], "answer": 3 },
+  { "type": "single", "year": "2023 C", "q": "When he _______ is not known.", "options": ["will arrive", "has arrived", "will have arrived", "arrived"], "answer": 0 },
+  { "type": "single", "year": "2023 C", "q": "We _______ obey the natural laws.", "options": ["can", "could", "must", "might"], "answer": 2 },
+  { "type": "single", "year": "2023 C", "q": "She _______ in the middle of his speech.", "options": ["broke down", "broke with", "broke", "broke out"], "answer": 0 },
+  { "type": "single", "year": "2023 C", "q": "There _______ be an accident at any time on this bridge.", "options": ["will", "must", "could", "shall"], "answer": 2 },
+  { "type": "single", "year": "2023 C", "q": "The school _______, I could not get my certificate.", "options": ["been closed", "being closed", "being close", "been close"], "answer": 1 },
+  { "type": "single", "year": "2023 C", "q": "_______ we afford to fell trees?", "options": ["Will", "May", "Need", "Can"], "answer": 3 },
+  { "type": "single", "year": "2023 C", "q": "Children _______ volunteer for an hour a week to spend time with the elderly.", "options": ["must", "used to", "ought to", "will"], "answer": 2 },
+  { "type": "single", "year": "2023 C", "q": "When I was ten years old, I _______ speak three languages.", "options": ["would", "could", "ought to", "will"], "answer": 1 },
+  { "type": "single", "year": "2023 C", "q": "It has been two weeks, but the team has still not _______ from its defeat.", "options": ["got along", "got in", "got over", "got about"], "answer": 2 },
+  { "type": "single", "year": "2023 C", "q": "People _______ stay indoors as a severe storm is expected this evening.", "options": ["ought to", "must", "will", "would"], "answer": 1 },
+  { "type": "single", "year": "2023 C", "q": "You _______ wear a seat belt.", "options": ["may", "must", "might", "can"], "answer": 1 },
+  { "type": "single", "year": "2023", "q": "Last week it _______ (rain) heavily and my house was flooded with water.", "options": ["rained", "raining", "has rained", "had rained"], "answer": 0 },
+  { "type": "single", "year": "2023", "q": "The students with the help of their teacher _______ (create) a beautiful poster.", "options": ["create", "created", "creates", "will create"], "answer": 1 },
+  { "type": "single", "year": "2023", "q": "When I was a very young girl, _______ grocery shopping was considered a major outing for me.", "options": ["to be going", "going", "having gone", "went"], "answer": 1 },
+  { "type": "single", "year": "2023", "q": "The package _______ (arrive) at nine in the morning, the day after tomorrow.", "options": ["will arrive", "would arrive", "can arrive", "cannot arrive"], "answer": 0 },
+  { "type": "single", "year": "2023", "q": "I appreciate even _______ help given to me.", "options": ["little", "much", "the little", "few"], "answer": 2 },
+  { "type": "single", "year": "2023", "q": "One _______ read the newspaper every day.", "options": ["should", "would", "can", "may"], "answer": 0 },
+  { "type": "single", "year": "2023", "q": "The domestic cat _______ related to the lion and the tiger.", "options": ["be", "is being", "has been", "is"], "answer": 2 },
+  { "type": "single", "year": "2023", "q": "We _______ not really change a man's mind and heart with money.", "options": ["can", "could", "may", "might"], "answer": 0 },
+  { "type": "single", "year": "2023", "q": "Economics _______ difficult for the students of grade nine.", "options": ["is", "are", "has", "were"], "answer": 0 },
+  { "type": "single", "year": "2023", "q": "If you had worked hard, you _______ have passed.", "options": ["may", "will", "would", "might"], "answer": 2 },
+  { "type": "single", "year": "2023", "q": "Parents must _______ their children's leisure activities.", "options": ["look at", "look into", "look away", "look up"], "answer": 1 },
+  { "type": "single", "year": "2023", "q": "Keep the environment clean. Do not litter. You _______ follow rules.", "options": ["should", "may", "must", "will"], "answer": 2 },
+  { "type": "single", "year": "2023", "q": "In times of trouble you can always _______ your parents for help.", "options": ["turn in", "turn to", "turn on", "turn away"], "answer": 1 },
+  { "type": "single", "year": "2023", "q": "The doctor _______ examined the patient when the family arrived.", "options": ["was", "had", "has", "have"], "answer": 1 },
+  { "type": "single", "year": "2023", "q": "The public _______ feed the animals in a zoo.", "options": ["should not", "ought not to", "must not", "need not"], "answer": 2 },
+  { "type": "single", "year": "2023", "q": "There is _______ sugar in the tin for a cup of tea.", "options": ["enough", "much", "more", "little"], "answer": 0 },
+  { "type": "single", "year": "2023", "q": "Sita is working hard these days. I think she _______ admission in a medical college.", "options": ["will get", "might get", "would get", "would be getting"], "answer": 1 },
+  { "type": "single", "year": "2023", "q": "The train is running late, we _______ for one hour.", "options": ["would wait", "should have to wait", "shall have to wait", "may be waiting"], "answer": 2 },
+
+  { "type": "paragraph", "year": "2020", "passage": "After __(a)__ a week in the cottage, he decided that he didn't really enjoy __(b)__ in the countryside and began __(c)__ of an excuse for __(d)__ the cottage.", "blanks": [
+    { "id": "a", "options": ["spending", "have spent", "spent", "spends"], "answer": 0 },
+    { "id": "b", "options": ["to living", "lived", "living", "lives"], "answer": 2 },
+    { "id": "c", "options": ["to thinking", "to thought", "thought", "to think"], "answer": 3 },
+    { "id": "d", "options": ["sold", "selling", "sells", "sale"], "answer": 1 }
+  ]},
+
+  { "type": "paragraph", "year": "2020", "passage": "Reading books __(a)__ a good hobby. Books open __(b)__ new world to us. They increase __(c)__ knowledge and change our outlook __(d)__ the world.", "blanks": [
+    { "id": "a", "options": ["has", "was", "are", "is"], "answer": 3 },
+    { "id": "b", "options": ["the", "a", "an", "some"], "answer": 1 },
+    { "id": "c", "options": ["his", "one's", "our", "your"], "answer": 2 },
+    { "id": "d", "options": ["towards", "for", "by", "from"], "answer": 0 }
+  ]},
+
+  { "type": "paragraph", "year": "2020", "passage": "A great advantage __(a)__ early rising is the good start it gives us to our day's work. An early riser has done a large amount of hard work __(b)__ other men have got out of their beds. In the early morning, the mind is fresh and there __(c)__ few noises or other distractions so that the work done __(d)__ that time is generally well done.", "blanks": [
+    { "id": "a", "options": ["and", "of", "but", "from"], "answer": 1 },
+    { "id": "b", "options": ["at", "or", "upon", "before"], "answer": 3 },
+    { "id": "c", "options": ["are", "is", "will", "was"], "answer": 0 },
+    { "id": "d", "options": ["at", "for", "from", "on"], "answer": 0 }
+  ]},
+
+  { "type": "paragraph", "year": "2019 C", "passage": "Sabarimala is situated __(a)__ Western Ghats and is named after Sabari, the tribal woman __(b)__ in the Ramayana. __(c)__ attained salvation after __(d)__ meeting __(e)__ Ram.", "blanks": [
+    { "id": "a", "options": ["on", "at", "in", "over"], "answer": 0 },
+    { "id": "b", "options": ["enjoyed", "mentioned", "mentioning", "mentions"], "answer": 1 },
+    { "id": "c", "options": ["Who", "Which", "Whom", "Whose"], "answer": 0 },
+    { "id": "d", "options": ["his", "her", "their", "your"], "answer": 1 },
+    { "id": "e", "options": ["to", "with", "about", "for"], "answer": 1 }
+  ]},
+
+  { "type": "paragraph", "year": "2019", "passage": "Birds and animals live in the lap __(a)__ nature and can predict the likely changes accurately. Swallows usually fly high __(b)__ the sky. But during a storm, they come down __(c)__ fly close to the ground. If they fly low you __(d)__ be sure of strong winds. Even a toad can be __(e)__ reliable weatherman.", "blanks": [
+    { "id": "a", "options": ["in", "of", "on", "for"], "answer": 1 },
+    { "id": "b", "options": ["in", "on", "above", "to"], "answer": 0 },
+    { "id": "c", "options": ["nor", "or", "but", "and"], "answer": 3 },
+    { "id": "d", "options": ["would", "should", "might", "could"], "answer": 3 },
+    { "id": "e", "options": ["a", "an", "the", "some"], "answer": 0 }
+  ]},
+
+  { "type": "paragraph", "year": "2019", "passage": "He would __(a)__ beg than steal. I have not met him __(b)__ he has left school. He was __(c)__ sad yesterday. The earth __(d)__ around the sun. He usually __(e)__ breakfast before he goes to school.", "blanks": [
+    { "id": "a", "options": ["not", "rather", "no longer", "nor"], "answer": 1 },
+    { "id": "b", "options": ["for", "since", "when", "until"], "answer": 1 },
+    { "id": "c", "options": ["very", "to", "more", "fairly"], "answer": 0 },
+    { "id": "d", "options": ["moved", "has moved", "is moved", "moves"], "answer": 3 },
+    { "id": "e", "options": ["is eating", "has eaten", "eats", "ate"], "answer": 2 }
+  ]},
+
+  { "type": "paragraph", "year": "2018", "passage": "The modern student __(a)__ the importance __(b)__ physical exercise. He spends one to two hours in open air __(c)__ he takes part in different sports. However, care should __(d)__ not to overstrain __(e)__ body.", "blanks": [
+    { "id": "a", "options": ["understood", "understand", "have understood", "understands"], "answer": 3 },
+    { "id": "b", "options": ["of", "by", "from", "with"], "answer": 0 },
+    { "id": "c", "options": ["how", "which", "where", "why"], "answer": 2 },
+    { "id": "d", "options": ["be taken", "took", "takes", "has taken"], "answer": 0 },
+    { "id": "e", "options": ["a", "an", "the", "some"], "answer": 2 }
+  ]},
+
+  { "type": "paragraph", "year": "2017", "passage": "In 1905, Albert Einstein worked as a technical expert __(a)__ the local patent office. During this time, he published four of his __(b)__ important papers on the history of science. It proved to be a major step __(c)__ progress in the field of science.", "blanks": [
+    { "id": "a", "options": ["in", "on", "at", "from"], "answer": 2 },
+    { "id": "b", "options": ["much", "many", "most", "more"], "answer": 2 },
+    { "id": "c", "options": ["to", "towards", "in", "into"], "answer": 1 }
+  ]},
+
+  { "type": "paragraph", "year": "2017", "passage": "In urban India, the steadily bulging wallet has given __(a)__ to a certain kind of lifestyle that comes with several statutory health warnings. Hunting for food is no longer a strenuous activity — the restaurants that __(b)__ mushroomed in the cities __(c)__ a rich fare any time of the day or night.", "blanks": [
+    { "id": "a", "options": ["risen", "rise", "rose", "had"], "answer": 1 },
+    { "id": "b", "options": ["is", "had", "having", "have"], "answer": 3 },
+    { "id": "c", "options": ["offered", "offer", "offers", "offering"], "answer": 1 }
+  ]},
+
+  { "type": "paragraph", "year": "2017", "passage": "I met a smart young person __(a)__ wanted a 'selfie' __(b)__ me. So we __(c)__ on top of a boundary wall.", "blanks": [
+    { "id": "a", "options": ["which", "who", "whose", "whom"], "answer": 1 },
+    { "id": "b", "options": ["with", "on", "for", "to"], "answer": 0 },
+    { "id": "c", "options": ["sit", "sits", "sat", "sitting"], "answer": 2 }
+  ]},
+
+  { "type": "paragraph", "year": "2017", "passage": "Everyone is not in a position to __(a)__ the family and start living in a __(b)__ room on the banks __(c)__ the Ganga.", "blanks": [
+    { "id": "a", "options": ["leave", "leaves", "left", "leaving"], "answer": 0 },
+    { "id": "b", "options": ["small", "smaller", "smallest", "little"], "answer": 0 },
+    { "id": "c", "options": ["on", "in", "of", "off"], "answer": 2 }
+  ]},
+
+  { "type": "paragraph", "year": "2017", "passage": "Most men would have __(a)__ mad after one or two years __(b)__ loneliness. But he learnt to adjust to __(c)__ conditions.", "blanks": [
+    { "id": "a", "options": ["gone", "go", "going", "went"], "answer": 0 },
+    { "id": "b", "options": ["of", "from", "with", "by"], "answer": 0 },
+    { "id": "c", "options": ["such", "those", "these", "the"], "answer": 0 }
+  ]},
+
+  { "type": "paragraph", "year": "2017", "passage": "Very few people __(a)__ loneliness. It seems to me that most people __(b)__ scared of __(c)__ left on their own.", "blanks": [
+    { "id": "a", "options": ["enjoy", "enjoys", "enjoying", "enjoyed"], "answer": 0 },
+    { "id": "b", "options": ["is", "are", "be", "been"], "answer": 1 },
+    { "id": "c", "options": ["be", "being", "been", "having"], "answer": 1 }
+  ]},
+
+  { "type": "paragraph", "year": "2017", "passage": "Last year I visited the same spot even if I was not __(a)__ a cycle. I saw that many buildings __(b)__ been built on __(c)__ banks of the Ganga.", "blanks": [
+    { "id": "a", "options": ["ride", "rides", "rode", "riding"], "answer": 3 },
+    { "id": "b", "options": ["has", "have", "had", "having"], "answer": 2 },
+    { "id": "c", "options": ["a", "an", "the", "some"], "answer": 2 }
+  ]},
+
+  { "type": "paragraph", "year": "2017", "passage": "A young person __(a)__ a picture __(b)__ both of us with 'selfie'. I could __(c)__ say 'no'.", "blanks": [
+    { "id": "a", "options": ["want", "wants", "wanting", "wanted"], "answer": 3 },
+    { "id": "b", "options": ["in", "of", "for", "with"], "answer": 1 },
+    { "id": "c", "options": ["hard", "hardly", "hardest", "harder"], "answer": 1 }
+  ]},
+
+  { "type": "paragraph", "year": "2017", "passage": "The picture that __(a)__ out of the camera was __(b)__ disappointing. In it, neither I was there __(c)__ was she.", "blanks": [
+    { "id": "a", "options": ["come", "comes", "came", "coming"], "answer": 2 },
+    { "id": "b", "options": ["very", "less", "more", "too"], "answer": 0 },
+    { "id": "c", "options": ["or", "nor", "either", "and"], "answer": 1 }
+  ]},
+
+  { "type": "paragraph", "year": "2017 C", "passage": "Sir Leon said that, in future, computers would be __(a)__ which would be __(b)__ enough to be carried __(c)__ pockets.", "blanks": [
+    { "id": "a", "options": ["make", "makes", "made", "making"], "answer": 2 },
+    { "id": "b", "options": ["small", "smaller", "smallest", "little"], "answer": 0 },
+    { "id": "c", "options": ["on", "in", "at", "for"], "answer": 1 }
+  ]},
+
+  { "type": "paragraph", "year": "2016", "passage": "He was __(a)__ at the news __(b)__ the success of a poor candidate __(c)__ got the highest number of votes in Bihar election.", "blanks": [
+    { "id": "a", "options": ["surprising", "surprise", "surprised", "having surprised"], "answer": 2 },
+    { "id": "b", "options": ["of", "for", "to", "by"], "answer": 0 },
+    { "id": "c", "options": ["which", "whose", "who", "whom"], "answer": 2 }
+  ]},
+
+  { "type": "paragraph", "year": "2016", "passage": "The Vichitra Veena as __(a)__ name suggests __(b)__ a rare instrument and there are not __(c)__ artists who can play this instrument.", "blanks": [
+    { "id": "a", "options": ["a", "an", "the", "some"], "answer": 2 },
+    { "id": "b", "options": ["is", "are", "am", "have been"], "answer": 0 },
+    { "id": "c", "options": ["much", "many", "more", "most"], "answer": 1 }
+  ]},
+
+  { "type": "paragraph", "year": "2016", "passage": "Kanishka, the ruler of the Kushanas embraced Buddhism. He __(a)__ invited to a Buddhist meeting __(b)__ Kashmir during his reign. It was during his time that Buddhism __(c)__ to Sri Lanka, Myanmar and Java.", "blanks": [
+    { "id": "a", "options": ["is", "was", "had", "has"], "answer": 1 },
+    { "id": "b", "options": ["in", "at", "on", "for"], "answer": 0 },
+    { "id": "c", "options": ["spread", "spreads", "spreading", "is spread"], "answer": 0 }
+  ]},
+
+  { "type": "paragraph", "year": "2016", "passage": "Kingfisher is __(a)__ beautiful bird with attractive colours. It __(b)__ found near lakes, rivers, canals __(c)__ ponds.", "blanks": [
+    { "id": "a", "options": ["a", "an", "such a", "such"], "answer": 0 },
+    { "id": "b", "options": ["are", "is", "am", "was"], "answer": 1 },
+    { "id": "c", "options": ["and", "but", "so", "or"], "answer": 0 }
+  ]},
+
+  { "type": "paragraph", "year": "2016", "passage": "Recent heavy rains lashed Chennai city, throwing normal life out of gear. The city __(a)__ severe water logging and people wading through knee-deep water. Many volunteers in their respective areas __(b)__ out the relief activities. In Annai Satya Nagar food packets __(c)__ distributed to the victims.", "blanks": [
+    { "id": "a", "options": ["seen", "saw", "see", "sees"], "answer": 1 },
+    { "id": "b", "options": ["carry", "carrying", "carried", "had carried"], "answer": 2 },
+    { "id": "c", "options": ["were", "was", "did", "had"], "answer": 0 }
+  ]},
+
+  { "type": "paragraph", "year": "2016", "passage": "Most Indian schools fail to ensure their students adequate playtime and fitness regime. Two out of every five school going children __(a)__ have a healthy body mass index (BMI) and 50% of children __(b)__ adequate lower body strength. Some schools __(c)__ found to offer three or more physical education periods per week.", "blanks": [
+    { "id": "a", "options": ["does", "does not", "do", "do not"], "answer": 3 },
+    { "id": "b", "options": ["lack", "lacked", "have lacked", "had lacked"], "answer": 0 },
+    { "id": "c", "options": ["was", "is", "are", "have"], "answer": 2 }
+  ]},
+
+  { "type": "paragraph", "year": "2016", "passage": "__(a)__ agricultural scientists have begun to realise that chemical pesticides are not necessary. The tragedy is __(b)__ this recognition has come much late. Pesticides have already __(c)__ our lands.", "blanks": [
+    { "id": "a", "options": ["Few", "Any", "Many", "The few"], "answer": 2 },
+    { "id": "b", "options": ["that", "this", "these", "those"], "answer": 0 },
+    { "id": "c", "options": ["poisoned", "poison", "poisons", "poisoning"], "answer": 0 }
+  ]}
+]

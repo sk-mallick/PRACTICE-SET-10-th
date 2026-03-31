@@ -1,0 +1,17 @@
+[
+  {"type":"single","year":"2023 C","q":"We _______ obey the natural laws.","options":["can","could","must","might"],"answer":2},
+  {"type":"single","year":"2023 C","q":"She _______ in the middle of his speech.","options":["broke down","broke with","broke","broke out"],"answer":0},
+  {"type":"single","year":"2023 C","q":"There _______ be an accident at any time on this bridge.","options":["will","must","could","shall"],"answer":2},
+  {"type":"single","year":"2023 C","q":"The school _______, I could not get my certificate.","options":["been closed","being closed","being close","been close"],"answer":1},
+  {"type":"single","year":"2023 C","q":"_______ we afford to fell trees?","options":["Will","May","Need","Can"],"answer":3},
+  {"type":"single","year":"2023 C","q":"Children _______ volunteer for an hour a week to spend time with the elderly.","options":["must","used to","ought to","will"],"answer":2},
+  {"type":"single","year":"2023 C","q":"When I was ten years old, I _______ speak three languages.","options":["would","could","ought to","will"],"answer":1},
+  {"type":"single","year":"2023 C","q":"It has been two weeks, but the team has still not _______ from its defeat.","options":["got along","got in","got over","got about"],"answer":2},
+  {"type":"single","year":"2023 C","q":"People _______ stay indoors as a severe storm is expected this evening.","options":["ought to","must","will","would"],"answer":1},
+  {"type":"single","year":"2023 C","q":"You _______ wear a seat belt.","options":["may","must","might","can"],"answer":1},
+  {"type":"single","year":"2023","q":"Last week it _______ (rain) heavily and my house was flooded with water.","options":["rained","raining","has rained","had rained"],"answer":0},
+  {"type":"single","year":"2023","q":"The students with the help of their teacher _______ (create) a beautiful poster.","options":["create","created","creates","will create"],"answer":1},
+  {"type":"single","year":"2023","q":"When I was a very young girl, _______ grocery shopping was considered a major outing for me.","options":["to be going","going","having gone","went"],"answer":1},
+  {"type":"single","year":"2023","q":"The package _______ (arrive) at nine in the morning, the day after tomorrow.","options":["will arrive","would arrive","can arrive","cannot arrive"],"answer":0},
+  {"type":"single","year":"2023","q":"I appreciate even _______ help given to me.","options":["little","much","the little","few"],"answer":2}
+]

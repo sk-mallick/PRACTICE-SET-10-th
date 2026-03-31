@@ -1,0 +1,513 @@
+
+================================================================================
+SECTION 3: DIALOGUE / REPORTED SPEECH
+(Total: 43 Questions)
+================================================================================
+[Note: No MCQs for this section — Question + Answer + Solution only]
+
+Q1. Student: "Hello. I've come to ask about the English courses you run for
+    international students."
+    Administrator: "Are you a student at the university?"
+    The student greeted and mentioned that she _______ to inquire about the
+    English courses for international students. The administrator enquired
+    if she was a student at the university.                            (2025)
+
+Answer: had come
+Solution: In reported speech, 'have come' (Present Perfect) shifts to 'had
+          come' (Past Perfect). 'She' replaces 'I' (first person to third).
+
+--------------------------------------------------------------------------------
+
+Q2. Shopkeeper: "What book do you want?"
+    Ramesh: "A reference book for Physics which I can use for my project work."
+    The shopkeeper asked Ramesh which book he wanted. Ramesh replied that
+    _______.                                                           (2025)
+
+Answer: he wanted a reference book for Physics which he could use for his
+        project work.
+Solution: 'Do you want?' → 'he wanted' (tense shifts to past); 'I' → 'he';
+          'can' → 'could' (modal shifts to past). Question word order becomes
+          statement order.
+
+--------------------------------------------------------------------------------
+
+Q3. City Planner: "The new park is a result of several months of research
+    and planning."
+    Residents: "We don't know who is more excited – we or our children!"
+    The city planner said that the new park _______ of several months of
+    research and planning.                                             (2025)
+
+Answer: was a result
+Solution: Direct speech 'is' (Simple Present) shifts to 'was' (Simple Past)
+          in reported speech. 'A result' remains unchanged.
+
+--------------------------------------------------------------------------------
+
+Q4. Riya: "The book really caught my attention. It's called 'Eternal Echoes'."
+    Simran: "That sounds interesting! I'll definitely add it to my reading
+    list."
+    Riya told Simran about the book that had captured her interest. Simran
+    expressed that it _______.                                         (2025)
+    A. sound interesting
+    B. sounded interesting
+    C. will be interesting
+    D. was found to be interesting
+
+Answer: B. sounded interesting
+Solution: Direct speech 'sounds' (Simple Present) shifts to 'sounded'
+          (Simple Past) in reported speech.
+
+--------------------------------------------------------------------------------
+
+Q5. Teacher: "Today, we're going to learn about the importance of trees."
+    Student: "I pledge to plant some trees this weekend."
+    The student understood _______ and added that he _______.          (2025)
+
+Answer: the importance of trees / would plant some trees that weekend.
+Solution: 'I pledge' → 'he pledged/added that he would plant'; 'this weekend'
+          → 'that weekend' (time shift in reported speech).
+
+--------------------------------------------------------------------------------
+
+Q6. Kriva and Manish had a conversation about the engagement of Kriva's
+    brother. Manish asked: "How far is the engagement venue from your house?"
+    Report Manish's question.                                          (2025)
+
+Answer: Manish asked Kriva how far the engagement venue was from her house.
+Solution: Direct question 'How far is the venue from your house?' becomes
+          indirect: 'how far the venue was from her house' — tense shifts,
+          question mark removed, word order becomes statement form.
+
+--------------------------------------------------------------------------------
+
+Q7. Ankita: "Are we going to get some time off for sightseeing?"
+    Sharwari: "Oh yes! All the students will get two days for sightseeing."
+    Ankita asked Sharwari if they were going to get some time off for
+    sightseeing, to which Sharwari replied in the affirmative and _______
+    two days for sightseeing.                                          (2025)
+    A. that all the students should get
+    B. that all the students would get
+    C. that all the students ought to get
+    D. that all students must be getting
+
+Answer: B. that all the students would get
+Solution: 'Will get' (direct speech) shifts to 'would get' in reported speech
+          (will → would in past reporting).
+
+--------------------------------------------------------------------------------
+
+Q8. Ankita: "Will you help me plan my itinerary?"
+    Tanu: "Yes, indeed! Where are you going?"
+    Ankita asked Tanu if _______.                                      (2025)
+
+Answer: she would help her plan her itinerary.
+Solution: 'Will you help me?' → 'if she would help her'. 'Will' → 'would';
+          'you' → 'she'; 'me' → 'her'. Question becomes an embedded clause.
+
+--------------------------------------------------------------------------------
+
+Q9. Sunil: "Where is my car, sir? I parked it here."
+    Police Officer: "The car has been towed away as you parked it in the
+    'No Parking' zone."
+    The police officer replied that _______.                           (2025)
+
+Answer: the car had been towed away as he had parked it in the 'No Parking'
+        zone.
+Solution: 'Has been towed' → 'had been towed' (Past Perfect Passive);
+          'you parked' → 'he had parked' (tense and pronoun shifts).
+
+--------------------------------------------------------------------------------
+
+Q10. Sameer and Arun had a conversation. Arun asked: "What is the importance
+     of planting trees?"
+     Report Arun's question.                                          (2025)
+
+Answer: Arun asked Sameer what the importance of planting trees was.
+Solution: 'What is the importance' → 'what the importance was'. Tense shifts
+          from present to past; question word order becomes statement order.
+
+--------------------------------------------------------------------------------
+
+Q11. Mihika and Nitesh had a conversation about a shopping mall. Mihika asked:
+     "Do you remember that cafe where we had a croissant?"
+     Report Mihika's question.                                        (2024)
+
+Answer: Mihika asked Nitesh if he remembered that cafe where they had had
+        a croissant.
+Solution: Yes/No question uses 'if/whether'; 'Do you remember' → 'if he
+          remembered'; 'we had' → 'they had had' (past perfect); 'that' stays.
+
+--------------------------------------------------------------------------------
+
+Q12. Sameer: "At what time are we landing in Mumbai?"
+     Flight Attendant: "Sorry for the inconvenience, sir. The flight will be
+     delayed by a few hours due to heavy rain."
+     The flight attendant replied that _______ due to heavy rains.    (2024)
+     A. the flight would be delayed by a few hours
+     B. there would be a delay in flight landing
+     C. there will be a delay by a few hours
+     D. the flight could be delayed by a few hours
+
+Answer: A. the flight would be delayed by a few hours
+Solution: 'Will be delayed' → 'would be delayed' (will → would in reported
+          speech). The passive structure is preserved.
+
+--------------------------------------------------------------------------------
+
+Q13. Teacher: "Why have you not completed your homework?"
+     Student: "There was a long power cut in my locality and our inverter
+     battery also ran out."
+     The student answered that _______.                               (2024)
+
+Answer: there had been a long power cut in his locality and his inverter
+        battery had also run out.
+Solution: 'There was' → 'there had been'; 'ran out' → 'had run out' (Simple
+          Past → Past Perfect in reported speech). 'Our' → 'his'.
+
+--------------------------------------------------------------------------------
+
+Q14. Monika and Sunil had a conversation about summer vacation plans. Sunil
+     asked: "Are you planning to visit your hometown during the summer
+     vacation?"
+     Report Sunil's question.                                         (2024)
+
+Answer: Sunil asked Monika if she was planning to visit her hometown during
+        the summer vacation.
+Solution: Yes/No question → 'if she was planning'; 'you' → 'she'; 'your' →
+          'her'; 'the summer vacation' stays as a known reference.
+
+--------------------------------------------------------------------------------
+
+Q15. Shambhavi: "How do you plan to contribute to the tree plantation drive?"
+     Akshat: "I have prepared a speech for the morning assembly."
+     Shambhavi asked Akshat _______.                                  (2024)
+     A. how he had planned to contribute to the tree plantation drive
+     B. how did he plan to contribute to the tree plantation drive
+     C. how he planned to contribute to the tree plantation drive
+     D. how was he planning to contribute to the tree plantation drive
+
+Answer: C. how he planned to contribute to the tree plantation drive
+Solution: 'How do you plan?' → 'how he planned'. The tense shifts to past;
+          question word order becomes statement order (no inversion).
+
+--------------------------------------------------------------------------------
+
+Q16. Customer: "Where can I drop a request to get an exchange?"
+     Salesman: "Sir, you need to fill in this form before getting the exchange."
+     The salesman answered politely that _______.                     (2024)
+
+Answer: he needed to fill in a form before getting the exchange.
+Solution: 'You need' → 'he needed' (you → he; present → past); 'this form'
+          → 'a form' (demonstrative pronoun shifts).
+
+--------------------------------------------------------------------------------
+
+Q17. Mahi and Pankaj had a conversation about volunteer work. Mahi asked:
+     "How do you balance your volunteer work with your personal life?"
+     Report Mahi's question.                                          (2024)
+
+Answer: Mahi asked Pankaj how he balanced his volunteer work with his
+        personal life.
+Solution: 'How do you balance?' → 'how he balanced'; 'you' → 'he';
+          'your' → 'his'; question word order becomes statement order.
+
+--------------------------------------------------------------------------------
+
+Q18. Rita: "Why did you decide to take up painting?"
+     Jeetu: "I view painting as a form of self-expression and relaxation."
+     Jeetu calmly explained that _______ self-expression and relaxation.
+                                                                      (2024)
+     A. he views painting as a form of
+     B. he has viewed painting as a form of
+     C. he viewed painting as a form of
+     D. he is viewing painting as a form of
+
+Answer: C. he viewed painting as a form of
+Solution: 'I view' (Simple Present direct) → 'he viewed' (Simple Past in
+          reported speech). 'I' → 'he'.
+
+--------------------------------------------------------------------------------
+
+Q19. Vendor: "It seems like you're in a hurry today!"
+     Customer: "Yes, I have to pick up my daughter at school soon."
+     The customer confirmed and explained that _______.               (2024)
+
+Answer: she had to pick up her daughter at school soon.
+Solution: 'I have to' → 'she had to' (have → had; I → she; my → her);
+          'soon' remains (time reference stays as context is clear).
+
+--------------------------------------------------------------------------------
+
+Q20. Raashi: "What is the most rewarding part of volunteering?"
+     Ratul: "Seeing the positive impact we can make in people's lives is the
+     most rewarding part."
+     Ratul expressed that seeing the _______ is the most rewarding part.
+                                                                      (2024)
+     A. positive impact we can make in people's lives
+     B. positive impact they can make in people's lives
+     C. positive impact they could make in people's lives
+     D. positive impact we could make in people's lives
+
+Answer: C. positive impact they could make in people's lives
+Solution: 'We can' → 'they could' — pronoun shifts from 'we' to 'they';
+          'can' → 'could' (modal shifts to past in reported speech).
+
+--------------------------------------------------------------------------------
+
+Q21. Mother: "Ria, you went to the market. Is it crowded?"
+     Ria: "The market is always crowded with people."
+     Ria replied that _______.                                     (2023 C)
+
+Answer: the market was always crowded with people.
+Solution: 'Is always crowded' (Simple Present) → 'was always crowded'
+          (Simple Past) in reported speech. 'The market' stays unchanged.
+
+--------------------------------------------------------------------------------
+
+Q22. Priti: "Life's pretty dull. I need a job."
+     Meeru: "What kind of job are you interested in?"
+     In response to Priti's claim, Meeru _______.                 (2023 C)
+
+Answer: asked what kind of job she was interested in.
+Solution: 'What kind of job are you interested in?' → 'asked what kind of
+          job she was interested in'; 'you' → 'she'; 'are' → 'was'.
+
+--------------------------------------------------------------------------------
+
+Q23. Rachita shared information about the trek. Reena asked: "Was the
+     trek difficult?"
+     Report Reena's question.                                     (2023 C)
+
+Answer: Reena asked Rachita if/whether the trek had been difficult.
+Solution: Yes/No question uses 'if/whether'; 'Was the trek difficult?' →
+          'if the trek had been difficult' (was → had been, Past Perfect).
+
+--------------------------------------------------------------------------------
+
+Q24. Postmaster: "Rama, show me a document to verify your identity."
+     Rama: "Sure, I will show you my driving licence."
+     Rama affirmed and said _______.                              (2023 C)
+     A. that was her driving licence.
+     B. this was her driving licence.
+     C. this is her driving licence.
+     D. that she would show him her driving licence.
+
+Answer: D. that she would show him her driving licence.
+Solution: 'I will show you' → 'she would show him'; 'will' → 'would';
+          'I' → 'she'; 'you' → 'him'; 'my' → 'her'.
+
+--------------------------------------------------------------------------------
+
+Q25. Alok: "Why did you get into a fight with Manu?"
+     Mohit: "Manu made some offensive allegations."
+     Mohit replied that _______.                                  (2023 C)
+
+Answer: Manu had made some offensive allegations.
+Solution: 'Manu made' (Simple Past direct) → 'Manu had made' (Past Perfect
+          in reported speech — past shifts one step further back).
+
+--------------------------------------------------------------------------------
+
+Q26. Rahul: "Father, I want a car."
+     Father: "No, you are not eighteen yet."
+     Rahul asked his father to get him a car but his father _______.
+                                                                  (2023 C)
+
+Answer: refused, saying he was not eighteen yet.
+Solution: The father's negative response is reported with 'refused'. 'You
+          are not eighteen' → 'he was not eighteen' (you → he; are → was).
+
+--------------------------------------------------------------------------------
+
+Q27. Rashid shared information about the piano. Tanu asked: "Who could
+     have broken the piano?"
+     Report Tanu's question.                                      (2023 C)
+
+Answer: Tanu asked who could have broken the piano.
+Solution: 'Who could have broken the piano?' — a wh-question with a modal.
+          In reported speech: 'asked who could have broken the piano'
+          (no tense shift needed for modal perfect 'could have').
+
+--------------------------------------------------------------------------------
+
+Q28. Postmaster: "Rama, who do you want to send the parcel to?"
+     Rama: "I want to send it to my uncle."
+     Rama replied _______.                                        (2023 C)
+     A. that she wish to send to her uncle.
+     B. that she want to send to her uncle.
+     C. that she wanted to send to her uncle.
+     D. that she may send to her uncle.
+
+Answer: C. that she wanted to send to her uncle.
+Solution: 'I want' → 'she wanted' (I → she; want → wanted in past reported
+          speech). 'My uncle' → 'her uncle'.
+
+--------------------------------------------------------------------------------
+
+Q29. Cobbler: "Does this shoe hurt when you walk?"
+     Rohit: "Yes, my left shoe pinches my toes."
+     Rohit replied _______.                                       (2023 C)
+
+Answer: that his left shoe pinched his toes.
+Solution: 'My left shoe pinches' → 'his left shoe pinched' (my → his;
+          Simple Present → Simple Past in reported speech).
+
+--------------------------------------------------------------------------------
+
+Q30. Coach: "Gautam, have you recovered from your muscle injury?"
+     Gautam: "After physiotherapy, I am feeling much better."
+     Gautam replied _______.                                      (2023 C)
+
+Answer: that after physiotherapy, he was feeling much better.
+Solution: 'I am feeling' (Present Continuous) → 'he was feeling' (Past
+          Continuous); 'I' → 'he' in reported speech.
+
+--------------------------------------------------------------------------------
+
+Q31. Ragini shared information. Jayanti asked: "Can anyone become a member
+     of the library?"
+     Report Jayanti's question.                                   (2023 C)
+
+Answer: Jayanti asked if/whether anyone could become a member of the library.
+Solution: Yes/No question uses 'if/whether'; 'Can anyone become?' → 'if
+          anyone could become' ('can' → 'could' in reported speech).
+
+--------------------------------------------------------------------------------
+
+Q32. Clerk: "Where do you want to go?"
+     Passenger: "Please give me a ticket to Bhopal."
+     The passenger requested the clerk _______.                    (2023)
+
+Answer: to give him a ticket to Bhopal.
+Solution: An imperative/request 'Give me...' in reported speech becomes
+          'requested...to give him'. 'Me' → 'him'.
+
+--------------------------------------------------------------------------------
+
+Q33. Tony: "Why did you call me?"
+     Sarita: "Will you go to the museum with me?"
+     Sarita wanted to know whether Tony _______.                   (2023)
+
+Answer: would go to the museum with her.
+Solution: 'Will you go?' → 'whether he would go'; 'will' → 'would';
+          'you' → 'Tony/he'; 'me' → 'her' (Sarita is the speaker).
+
+--------------------------------------------------------------------------------
+
+Q34. Meera: "What did you buy?"
+     Father: "I bought a heater."
+     The father replied that he _______.                           (2023)
+
+Answer: had bought a heater.
+Solution: 'I bought' (Simple Past) → 'he had bought' (Past Perfect) in
+          reported speech; 'I' → 'he'.
+
+--------------------------------------------------------------------------------
+
+Q35. Doctor: "Do you feel down from time-to-time, Mr. Gopalan?"
+     Patient: "Yes, I do not stay in a good mood."
+     The patient affirmed _______.                            (2022-23)
+
+Answer: that he did not stay in a good mood.
+Solution: 'I do not stay' (Simple Present) → 'he did not stay' (Simple Past);
+          'I' → 'he'. Affirmative response is reported with 'affirmed that'.
+
+--------------------------------------------------------------------------------
+
+Q36. Grandson: "Grandpa, who are your superheroes?"
+     Grandpa: "Anyone who shows kindness and compassion to others."
+     Grandfather said that _______.                           (2022-23)
+
+Answer: anyone who shows kindness and compassion to others is/are his
+        superheroes.
+Solution: The grandfather's answer is a general/universal statement. Such
+          statements may keep present tense in reported speech. 'My' →
+          'his'; 'are your' → 'are his'.
+
+--------------------------------------------------------------------------------
+
+Q37. Father: "Why ask so many questions, Latha?"
+     Latha: "I believe that if you don't know the answer, keep asking
+     till you do!"
+     Latha exclaimed that in the event of not knowing the answer one
+     should _______.                                          (2022-23)
+     A. keep asking till one does.
+     B. kept asking till one does.
+     C. keep asking till one do.
+     D. kept on ask till one do.
+
+Answer: A. keep asking till one does.
+Solution: 'Keep asking' is retained in reported speech as a general
+          principle/belief. 'You' → 'one' (generalized); 'you do' → 'one
+          does' (third person singular).
+
+--------------------------------------------------------------------------------
+
+Q38. Rhea asked Deepak: "Have you finalised the magazine content to be
+     submitted tomorrow?"
+     Report Rhea's question.                                 (2024-25)
+
+Answer: Rhea asked Deepak if he had finalised the magazine content to be
+        submitted the next day.
+Solution: Yes/No question uses 'if'; 'Have you finalised?' → 'if he had
+          finalised' (Present Perfect → Past Perfect); 'tomorrow' →
+          'the next day'.
+
+--------------------------------------------------------------------------------
+
+Q39. Sana said to her team leader: "I'm sorry I forgot ma'am. I'll have
+     the presentation ready for you very soon today."
+     Sana apologised for having forgotten and said _______.    (2024-25)
+
+Answer: that she would have the presentation ready very soon.
+Solution: 'I'll have' (will + have) → 'she would have'; 'I' → 'she';
+          'today' may be dropped or changed to 'that day'.
+
+--------------------------------------------------------------------------------
+
+Q40. Teacher: "Did everyone understand the new assignment?"
+     Students: "Yes, we all got it, thank you!"
+     The teacher asked if everyone had understood the new assignment, to
+     which the students _______, expressing their gratitude.  (2024-25)
+
+Answer: replied in the affirmative / confirmed that they all had understood.
+Solution: The students' positive response ('Yes, we all got it') is reported
+          as 'replied in the affirmative'. 'Got it' → 'had understood'.
+
+--------------------------------------------------------------------------------
+
+Q41. Sara: "Why did you choose to participate in this internship programme?"
+     Shabnam: "I am convinced this programme has the potential to enhance
+     my abilities."
+     Sara asked Shabnam _______ in that internship programme.  (2023-24)
+     A. why to choose to participate
+     B. to choose participation
+     C. why she had chosen to participate
+     D. either choice in participating
+
+Answer: C. why she had chosen to participate
+Solution: 'Why did you choose?' → 'why she had chosen' (Simple Past →
+          Past Perfect; 'you' → 'she'); statement word order used.
+
+--------------------------------------------------------------------------------
+
+Q42. Vendor: "It is nice to see you, Sir!"
+     Customer: "Yes, indeed! Unlike last month, I have been away for
+     quite some time this month."
+     The customer explained that _______.                     (2023-24)
+
+Answer: he had been away for quite some time that month.
+Solution: 'I have been away' (Present Perfect) → 'he had been away'
+          (Past Perfect); 'I' → 'he'; 'this month' → 'that month'.
+
+--------------------------------------------------------------------------------
+
+Q43. Sunil shared information about a holiday. Tariq asked: "Did you enjoy
+     travelling by sea?"
+     Report Tariq's question.                                 (2022-23)
+
+Answer: Tariq asked Sunil if he had enjoyed travelling by sea.
+Solution: Yes/No question uses 'if'; 'Did you enjoy?' → 'if he had enjoyed'
+          (Simple Past → Past Perfect in reported speech); 'you' → 'he'.
+
+--------------------------------------------------------------------------------

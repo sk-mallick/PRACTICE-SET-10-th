@@ -1,0 +1,429 @@
+[
+  {
+    "q": "Health experts worldwide are concerning about the surge in health problems.",
+    "options": ["concerning → concerned", "are → were", "surge → surging", "worldwide → worldwide's"],
+    "answer": 0,
+    "year": "2025",
+    "solution": "'Concerning' is an adjective meaning 'worrying', but here we need the past participle 'concerned' as in 'to be concerned about' (= to be worried about). Correct: 'are concerned'."
+  },
+  {
+    "q": "\"Embrace change as an opportunity for personal growth and allowed it to improve your life.\"",
+    "options": ["Embrace → Embracing", "allowed → allow", "improve → improving", "opportunity → opportunities"],
+    "answer": 1,
+    "year": "2025",
+    "solution": "The sentence uses parallel imperatives: 'Embrace...and allow...' Both verbs should be in base form (imperative). 'Allowed' must be 'allow'."
+  },
+  {
+    "q": "Kanyakumari is popular for its beautiful beaches, unique Vivekananda Rock Memorial and stunning sunrise and sunset view.",
+    "options": ["is → are", "its → their", "view → views", "popular → popularity"],
+    "answer": 2,
+    "year": "2025",
+    "solution": "'Sunrise and sunset view' refers to more than one view (both sunrise AND sunset), so the plural 'views' is required."
+  },
+  {
+    "q": "Mobile phones has become an integral part of life.",
+    "options": ["phones → phone", "has → have", "become → became", "integral → integrally"],
+    "answer": 1,
+    "year": "2025",
+    "solution": "'Mobile phones' is a plural subject. It requires the plural auxiliary verb 'have' — 'Mobile phones have become'."
+  },
+  {
+    "q": "He usually ate breakfast before he goes to school.",
+    "options": ["usually → always", "ate → eats", "goes → went", "before → after"],
+    "answer": 2,
+    "year": "2025",
+    "solution": "The main verb 'ate' is in Simple Past. The subordinate clause must also be in past tense — 'goes' should be 'went' for consistency."
+  },
+  {
+    "q": "Sleep is important in maintain one's health and well being.",
+    "options": ["is → was", "in → to", "maintain → maintaining", "one's → ones"],
+    "answer": 1,
+    "year": "2025",
+    "solution": "'Important to + infinitive' is the correct structure. 'In maintain' is incorrect; it should be 'important to maintain'."
+  },
+  {
+    "q": "Be the changes you want to see in the world.",
+    "options": ["Be → Being", "changes → change", "want → wanted", "see → saw"],
+    "answer": 1,
+    "year": "2025",
+    "solution": "The famous quote is 'Be the change you want to see in the world.' 'Change' should be singular — referring to one transformation."
+  },
+  {
+    "q": "The board invite online applications from eligible candidates for the post of a senior English teacher.",
+    "options": ["invite → invites", "eligible → eligibility", "post → posts", "online → on line"],
+    "answer": 0,
+    "year": "2025",
+    "solution": "'The board' is a collective singular noun. It takes a singular verb — 'invites' (with 's')."
+  },
+  {
+    "q": "Place the garment on the ironing board, smoothening out as many wrinkle as possible.",
+    "options": ["smoothening → smoothing", "wrinkle → wrinkles", "possible → possibly", "Place → Placing"],
+    "answer": 1,
+    "year": "2025",
+    "solution": "'As many' is followed by a countable plural noun — 'wrinkles' (plural), not the singular 'wrinkle'."
+  },
+  {
+    "q": "This product is manufacturing for infants and contains no additives.",
+    "options": ["This → These", "is manufacturing → is manufactured", "contains → contain", "infants → infant"],
+    "answer": 1,
+    "year": "2025",
+    "solution": "The product does not perform manufacturing; it is the object of manufacturing. Passive voice is required — 'is manufactured'."
+  },
+  {
+    "q": "I come across this beautiful painting in an antiques store last week.",
+    "options": ["come → came", "this → these", "antiques → antique", "beautiful → beautifully"],
+    "answer": 0,
+    "year": "2025",
+    "solution": "'Last week' is a definite past time marker requiring Simple Past. 'Come' must be 'came'."
+  },
+  {
+    "q": "She may play the piano when she was only eleven.",
+    "options": ["may → could", "play → played", "when → while", "only → just"],
+    "answer": 0,
+    "year": "2024 C",
+    "solution": "'Could' expresses past ability. The sentence refers to her past skill at age eleven — 'could play' is correct, not 'may play'."
+  },
+  {
+    "q": "Air pollution is continuous damaging the whole ecological system affecting the lives of plants and animals as well.",
+    "options": ["continuous → continuously", "affecting → effecting", "lives → life", "whole → wholly"],
+    "answer": 0,
+    "year": "2024 C",
+    "solution": "An adverb is needed to modify the verb 'damaging'. 'Continuous' is an adjective; the correct adverb form is 'continuously'."
+  },
+  {
+    "q": "This site use cookies. By continuing to use our website, you are agreeing to our privacy policy.",
+    "options": ["use → uses", "continuing → continued", "agreeing → agreed", "privacy → private"],
+    "answer": 0,
+    "year": "2024",
+    "solution": "'This site' is a singular subject. In Simple Present, a singular subject takes a verb with 's' — 'uses'."
+  },
+  {
+    "q": "Our goal is to promoting healthier meal choices in schools and at home.",
+    "options": ["goal → goals", "promoting → promote", "in → at", "healthier → healthy"],
+    "answer": 1,
+    "year": "2024",
+    "solution": "'To + base form' (infinitive) is required after 'is to'. 'Promoting' (gerund) is incorrect here — 'is to promote' is correct."
+  },
+  {
+    "q": "We reserve the right to make change to this website at any time without notice.",
+    "options": ["reserve → reserves", "change → changes", "without → with", "right → rights"],
+    "answer": 1,
+    "year": "2024",
+    "solution": "'Make changes' is the correct collocation. 'Change' (singular) is incorrect when referring to multiple possible amendments."
+  },
+  {
+    "q": "The soup recipe didn't turned out as expected, it was lacking in flavour.",
+    "options": ["didn't turned → didn't turn", "as → so", "lacking → lacked", "recipe → receipt"],
+    "answer": 0,
+    "year": "2024",
+    "solution": "After the auxiliary 'did not/didn't', the base form of the verb is used — 'didn't turn' (not 'didn't turned')."
+  },
+  {
+    "q": "Our latest software solution is designed for help businesses streamline their operations.",
+    "options": ["is → was", "for → to", "streamline → streamlined", "latest → later"],
+    "answer": 1,
+    "year": "2024",
+    "solution": "'Designed to + infinitive' is the correct structure for expressing purpose. 'For help' is incorrect — it should be 'to help'."
+  },
+  {
+    "q": "There's a significant correlation of low income and high crime rates.",
+    "options": ["There's → There are", "of → between", "high → higher", "significant → significantly"],
+    "answer": 1,
+    "year": "2024",
+    "solution": "'Correlation' always takes the preposition 'between' (not 'of') — 'correlation between A and B' is the correct fixed expression."
+  },
+  {
+    "q": "Some features cannot be available on your computer.",
+    "options": ["cannot → may not", "be available → available", "on → in", "Some → Any"],
+    "answer": 0,
+    "year": "2024",
+    "solution": "'Cannot be available' is contradictory — a feature either is or isn't available. 'May not be available' correctly expresses possibility."
+  },
+  {
+    "q": "When marginalized voices get a chance to tell their story, anger or sadness would be a justified theme.",
+    "options": ["get → got", "would → will", "justified → justifying", "their → there"],
+    "answer": 1,
+    "year": "2024",
+    "solution": "The sentence makes a general statement about what happens when marginalized voices speak — Simple Future 'will be' is more appropriate than 'would be' for a general truth."
+  },
+  {
+    "q": "\"Where words fall music speak.\" Each batch will contain only five students which will assure personal attention.",
+    "options": ["fall → fail", "speak → speaks", "which → who", "contain → contains"],
+    "answer": 1,
+    "year": "2024",
+    "solution": "'Music' is a singular subject. Simple Present requires 's' — 'music speaks'."
+  },
+  {
+    "q": "One of the world's most popular domain name seller, provides fantastic web hosting packages as well.",
+    "options": ["seller → sellers", "provides → provide", "fantastic → fantastically", "popular → popularly"],
+    "answer": 0,
+    "year": "2024",
+    "solution": "'One of the most popular sellers' — 'one of' is followed by a plural noun. 'Seller' must be 'sellers'."
+  },
+  {
+    "q": "The upma recipe was so delicious that I couldn't barely stop myself from having a second helping.",
+    "options": ["was → is", "barely → hardly", "couldn't barely → could barely", "delicious → deliciously"],
+    "answer": 2,
+    "year": "2024",
+    "solution": "Double negatives are incorrect. 'Couldn't barely' uses two negatives ('couldn't' + 'barely'). The correct form is 'could barely' (single negative meaning)."
+  },
+  {
+    "q": "Nearly all the sports practiced nowadays is competitive.",
+    "options": ["Nearly → Almost", "is → are", "competitive → competition", "practiced → practicing"],
+    "answer": 1,
+    "year": "2023 C",
+    "solution": "'All the sports' is a plural subject. It requires the plural verb 'are' — 'all the sports...are competitive'."
+  },
+  {
+    "q": "Honesty not only succeed in the long run but also brings about mutual trust and confidence.",
+    "options": ["succeed → succeeds", "but also → but rather", "mutual → mutually", "long → longer"],
+    "answer": 0,
+    "year": "2023 C",
+    "solution": "'Honesty' is a singular uncountable noun. Simple Present requires 's' on the verb — 'succeeds'."
+  },
+  {
+    "q": "Both the boys have got a scolding but either of them paid heed.",
+    "options": ["Both → Each", "either → neither", "paid → pay", "scolding → scold"],
+    "answer": 1,
+    "year": "2023 C",
+    "solution": "The sentence implies that none of the boys paid heed (negative meaning). 'Either' (used for one of two) should be 'neither' (not one of the two)."
+  },
+  {
+    "q": "World leaders should work to establish peace of the world.",
+    "options": ["should → must", "of → in", "establish → establishing", "leaders → leader"],
+    "answer": 1,
+    "year": "2023 C",
+    "solution": "The correct phrase is 'peace in the world' — the preposition 'in' indicates location. 'Peace of the world' is incorrect."
+  },
+  {
+    "q": "A story, to engage the interest of the read, must include mystery and adventure.",
+    "options": ["engage → engaging", "read → reader", "must → should", "include → includes"],
+    "answer": 1,
+    "year": "2023 C",
+    "solution": "'Read' is a verb, but a noun is needed here — 'the reader' (the person reading). 'Interest of the reader' is correct."
+  },
+  {
+    "q": "The winning athletes were felicitation by the State Government and the City Council.",
+    "options": ["winning → win", "felicitation → felicitated", "and → but", "were → was"],
+    "answer": 1,
+    "year": "2023 C",
+    "solution": "'Were felicitated' requires the past participle of the verb 'felicitate' (= to congratulate formally). 'Felicitation' is a noun, not a verb form — incorrect here."
+  },
+  {
+    "q": "There was exciting in the air when the winning school team marched into the hall.",
+    "options": ["was → were", "exciting → excitement", "marched → march", "winning → won"],
+    "answer": 1,
+    "year": "2023 C",
+    "solution": "'Excitement' is the noun needed after 'was'. 'Exciting' is an adjective/verb form — 'there was excitement in the air'."
+  },
+  {
+    "q": "The art displays in the wall were a wonderful way for children to express their talent.",
+    "options": ["displays → display", "in → on", "wonderful → wonderfully", "express → expressed"],
+    "answer": 1,
+    "year": "2023 C",
+    "solution": "Art is displayed 'on' a wall (surface), not 'in' a wall. 'On the wall' is the correct prepositional phrase."
+  },
+  {
+    "q": "My sister lives at the ground floor of a two-storeyed apartment.",
+    "options": ["lives → live", "at → on", "two-storeyed → two-storey", "ground → grounds"],
+    "answer": 1,
+    "year": "2023",
+    "solution": "Floors of a building use the preposition 'on' — 'lives on the ground floor'. 'At' is incorrect."
+  },
+  {
+    "q": "I can't never forget my childhood friend Bella.",
+    "options": ["can't never → can never", "forget → forgotten", "my → mine", "childhood → child"],
+    "answer": 0,
+    "year": "2023",
+    "solution": "'Can't never' is a double negative (two negative words together), which is grammatically incorrect in standard English. 'Can never' is correct."
+  },
+  {
+    "q": "Playing outdoor games have benefits over being indoors.",
+    "options": ["Playing → Play", "have → has", "over → than", "outdoor → outdoors"],
+    "answer": 1,
+    "year": "2023",
+    "solution": "'Playing outdoor games' is a gerund phrase acting as a singular subject. It requires the singular verb 'has'."
+  },
+  {
+    "q": "The sounds of laughter was echoing in the corridor.",
+    "options": ["sounds → sound", "was → were", "in → of", "laughter → laughing"],
+    "answer": 1,
+    "year": "2023",
+    "solution": "The subject is 'sounds' (plural). The verb must agree — 'were echoing' (plural past continuous)."
+  },
+  {
+    "q": "The children were exciting when they saw the leopard.",
+    "options": ["were → was", "exciting → excited", "saw → see", "leopard → leopards"],
+    "answer": 1,
+    "year": "2023",
+    "solution": "'Excited' (past participle) describes how the children felt. 'Exciting' means something that causes excitement in others — 'the children were excited' is correct."
+  },
+  {
+    "q": "Water was vital to human health and fitness.",
+    "options": ["Water → Waters", "was → is", "vital → vitally", "human → humans"],
+    "answer": 1,
+    "year": "2023",
+    "solution": "Water's importance to health is a permanent/universal truth. Simple Present 'is' is used for general truths — 'water is vital'."
+  },
+  {
+    "q": "Spending time for their kids brings immediate as well as long-last gain for a parents.",
+    "options": ["for → with", "long-last → long-lasting", "a parents → the parents", "brings → bring"],
+    "answer": 1,
+    "year": "2020",
+    "solution": "'Long-lasting' is the correct compound adjective meaning 'enduring over a long period'. 'Long-last' is not a standard English word."
+  },
+  {
+    "q": "The city police have decide to taking stern action against drivers which attempt to overtake in the left side on city roads.",
+    "options": ["have decide → have decided", "taking → take", "which → who", "stern → sternly"],
+    "answer": 0,
+    "year": "2020",
+    "solution": "'Have' is a Present Perfect auxiliary requiring the past participle 'decided' — 'have decided'. 'Decide' is the base form and incorrect."
+  },
+  {
+    "q": "Airports have became an important part of big city now. Small planes are being use by some people to travelling from one city to another.",
+    "options": ["have became → have become", "being use → being used", "to travelling → to travel", "important → importantly"],
+    "answer": 0,
+    "year": "2020 C",
+    "solution": "'Have + past participle' requires 'become' (not 'became' which is Simple Past). 'Have become' is the correct Present Perfect form."
+  },
+  {
+    "q": "The pleasure in being outdoors is fundamental for human happiness. There are so much to learn.",
+    "options": ["in → of", "fundamental → fundamentally", "are → is", "much → many"],
+    "answer": 2,
+    "year": "2019",
+    "solution": "'There is so much to learn' — 'much' (uncountable) requires the singular 'is', not 'are'. 'There are so many things' would be an alternative phrasing but is not the error here."
+  },
+  {
+    "q": "It is an constant source of delight to know more on the flora and fauna around.",
+    "options": ["an → a", "on → about", "more → most", "constant → constantly"],
+    "answer": 1,
+    "year": "2019",
+    "solution": "'Know about' is the correct phrasal verb — 'know about flora and fauna'. 'Know on' is not a standard English expression."
+  },
+  {
+    "q": "Countries near on equator are much warmer then countries farthest to the north and south.",
+    "options": ["near on → near the", "then → than", "farthest to → farthest from", "warmer → warmest"],
+    "answer": 1,
+    "year": "2019",
+    "solution": "'Than' is used in comparisons — 'warmer than'. 'Then' refers to time (sequence of events) and is incorrect in a comparison."
+  },
+  {
+    "q": "In the prisoner's room a candle is burning dimly. Only him back, the hair by his head, and his hands are visible from outside.",
+    "options": ["is → was", "him → his", "by → on", "visible → visibly"],
+    "answer": 1,
+    "year": "2018",
+    "solution": "A possessive adjective is needed before the noun 'back'. 'Him' is an object pronoun — 'his back' is correct."
+  },
+  {
+    "q": "On the way back, one of his men fall into a coma.",
+    "options": ["fall → fell", "one → ones", "his → their", "way → ways"],
+    "answer": 0,
+    "year": "2017",
+    "solution": "The narrative is in past tense. 'Fall' (present) must be 'fell' (Simple Past) to maintain tense consistency."
+  },
+  {
+    "q": "Scott is left with none other alternative but to pitch his tent and waiting for the blizzard to pass.",
+    "options": ["none → no", "waiting → wait", "blizzard → blizzards", "pitch → pitched"],
+    "answer": 1,
+    "year": "2017",
+    "solution": "'But to + base verb' is a fixed structure — 'but to pitch and wait'. 'Waiting' (gerund/continuous) is grammatically incorrect in parallel with 'to pitch'."
+  },
+  {
+    "q": "Unfortunately the blizzard grown fiercer.",
+    "options": ["the → a", "grown → grew", "fiercer → most fierce", "Unfortunately → Unfortunate"],
+    "answer": 1,
+    "year": "2017",
+    "solution": "Simple Past 'grew' is needed for a narrative past event. 'Grown' is a past participle (requires auxiliary 'had' — 'had grown')."
+  },
+  {
+    "q": "It can happen only at India.",
+    "options": ["can → could", "at → in", "happen → happens", "only → just"],
+    "answer": 1,
+    "year": "2017",
+    "solution": "Countries use the preposition 'in' — 'in India'. 'At' is used for specific points/locations (bus stop, airport etc.), not countries."
+  },
+  {
+    "q": "We, here in India have so many religions, we ate so many different foods.",
+    "options": ["ate → eat", "so many → so much", "here → there", "different → differently"],
+    "answer": 0,
+    "year": "2017",
+    "solution": "The sentence describes an ongoing cultural reality, not a past event. Simple Present 'eat' is correct — 'we eat many different foods'."
+  },
+  {
+    "q": "We wear so much different kinds of dresses. Still we are much united than any other country on the world.",
+    "options": ["so much → so many", "much → more", "on → in", "united → unite"],
+    "answer": 0,
+    "year": "2017",
+    "solution": "'Kinds' is a countable plural noun, requiring 'many' (not 'much' which is for uncountable nouns) — 'so many different kinds'."
+  },
+  {
+    "q": "We should been proud of ourselves. Each one of us have good qualities.",
+    "options": ["should been → should be", "have → has", "Each → Every", "proud → proudly"],
+    "answer": 0,
+    "year": "2017",
+    "solution": "'Should + base verb' is the correct modal structure. 'Been' is a past participle — 'should be' (not 'should been') is correct."
+  },
+  {
+    "q": "In this way we can hoped to succeed in life.",
+    "options": ["can hoped → can hope", "to succeed → succeeding", "in → at", "way → ways"],
+    "answer": 0,
+    "year": "2017",
+    "solution": "'Can + base verb' is the modal structure. 'Hoped' is past tense — 'can hope' (base form) is correct."
+  },
+  {
+    "q": "I met her by chance then I went to getting some medicine which Sister Amy use to give.",
+    "options": ["then → when", "to getting → to get", "use to → used to", "met → meet"],
+    "answer": 2,
+    "year": "2017",
+    "solution": "'Used to' expresses a past habitual action. 'Use to' (without 'd') is incorrect — 'used to give' is the standard form."
+  },
+  {
+    "q": "It was amazing for meet Mother. I start loving just her presence.",
+    "options": ["for → to", "start → started", "just → only", "amazing → amazingly"],
+    "answer": 0,
+    "year": "2017",
+    "solution": "'Amazing to + infinitive' is the correct structure for purpose/experience. 'For meet' is incorrect — 'amazing to meet' is right."
+  },
+  {
+    "q": "Being with her give one a new kind on energy.",
+    "options": ["give → gives", "on → of", "a → an", "Being → Be"],
+    "answer": 1,
+    "year": "2017",
+    "solution": "'A kind of energy' is the correct prepositional phrase. 'Kind on' is not a standard expression — 'kind of' is correct."
+  },
+  {
+    "q": "My meetings of Mother had always been a finer experience. I would go to him whenever I was sad, happy and angry.",
+    "options": ["of → with", "him → her", "finer → finest", "always → ever"],
+    "answer": 1,
+    "year": "2017",
+    "solution": "Mother is a female subject. The pronoun must be 'her' — 'I would go to her' (not 'him')."
+  },
+  {
+    "q": "She said that whenever I go to parties, if here was any leftover food I should picked it up.",
+    "options": ["go → went", "here → there", "picked → pick", "leftover → left over"],
+    "answer": 1,
+    "year": "2017",
+    "solution": "'Here' refers to a location near the speaker. In reported speech/narrative, 'there' is used for a location away from the speaker — 'if there was any leftover food'."
+  },
+  {
+    "q": "Bring it on the poor people. It was one of a most difficult things to do.",
+    "options": ["on → to", "a most → the most", "things → thing", "difficult → difficulty"],
+    "answer": 1,
+    "year": "2017",
+    "solution": "Superlatives use the definite article 'the' — 'one of the most difficult things'. 'A most' is incorrect for a superlative structure."
+  },
+  {
+    "q": "It is well know that in winter birds fly in the sunny South, or in spring, they fly back North to their breed grounds they had leave behind.",
+    "options": ["well know → well known", "breed → breeding", "leave → left", "fly → flies"],
+    "answer": 0,
+    "year": "2017 C",
+    "solution": "'Well known' is the correct compound adjective (past participle). 'Know' is the base verb form — 'well known' is correct."
+  },
+  {
+    "q": "Research is an detailed study of a subject undertaking on a systematic basis in order to increase a stock of knowledge.",
+    "options": ["an → a", "undertaking → undertaken", "increase → increasing", "systematic → system"],
+    "answer": 0,
+    "year": "2016",
+    "solution": "'A' is used before consonant sounds. 'Detailed' begins with the consonant sound /d/ — 'a detailed study' is correct, not 'an'."
+  }
+]

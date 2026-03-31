@@ -1,0 +1,733 @@
+================================================================================
+SECTION 2: ERROR CORRECTION
+(Total: 61 Questions)
+================================================================================
+
+Q1. Health experts worldwide are concerning about the surge in health
+    problems.                                                         (2025)
+    A. concerning → concerned
+    B. are → were
+    C. surge → surging
+    D. worldwide → worldwide's
+Answer: A. concerning → concerned
+Solution: 'Concerning' is an adjective meaning 'worrying', but here we need
+          the past participle 'concerned' as in 'to be concerned about'
+          (= to be worried about). Correct: 'are concerned'.
+
+--------------------------------------------------------------------------------
+
+Q2. "Embrace change as an opportunity for personal growth and allowed it
+    to improve your life."                                            (2025)
+    A. Embrace → Embracing
+    B. allowed → allow
+    C. improve → improving
+    D. opportunity → opportunities
+Answer: B. allowed → allow
+Solution: The sentence uses parallel imperatives: 'Embrace...and allow...'
+          Both verbs should be in base form (imperative). 'Allowed' must be
+          'allow'.
+
+--------------------------------------------------------------------------------
+
+Q3. Kanyakumari is popular for its beautiful beaches, unique Vivekananda
+    Rock Memorial and stunning sunrise and sunset view.               (2025)
+    A. is → are
+    B. its → their
+    C. view → views
+    D. popular → popularity
+Answer: C. view → views
+Solution: 'Sunrise and sunset view' refers to more than one view (both sunrise
+          AND sunset), so the plural 'views' is required.
+
+--------------------------------------------------------------------------------
+
+Q4. Mobile phones has become an integral part of life.               (2025)
+    A. phones → phone
+    B. has → have
+    C. become → became
+    D. integral → integrally
+Answer: B. has → have
+Solution: 'Mobile phones' is a plural subject. It requires the plural auxiliary
+          verb 'have' — 'Mobile phones have become'.
+
+--------------------------------------------------------------------------------
+
+Q5. He usually ate breakfast before he goes to school.               (2025)
+    A. usually → always
+    B. ate → eats
+    C. goes → went
+    D. before → after
+Answer: C. goes → went
+Solution: The main verb 'ate' is in Simple Past. The subordinate clause must
+          also be in past tense — 'goes' should be 'went' for consistency.
+
+--------------------------------------------------------------------------------
+
+Q6. Sleep is important in maintain one's health and well being.      (2025)
+    A. is → was
+    B. in → to
+    C. maintain → maintaining
+    D. one's → ones
+Answer: B. in → to
+Solution: 'Important to + infinitive' is the correct structure. 'In maintain'
+          is incorrect; it should be 'important to maintain'.
+
+--------------------------------------------------------------------------------
+
+Q7. Be the changes you want to see in the world.                     (2025)
+    A. Be → Being
+    B. changes → change
+    C. want → wanted
+    D. see → saw
+Answer: B. changes → change
+Solution: The famous quote is 'Be the change you want to see in the world.'
+          'Change' should be singular — referring to one transformation.
+
+--------------------------------------------------------------------------------
+
+Q8. The board invite online applications from eligible candidates for
+    the post of a senior English teacher.                            (2025)
+    A. invite → invites
+    B. eligible → eligibility
+    C. post → posts
+    D. online → on line
+Answer: A. invite → invites
+Solution: 'The board' is a collective singular noun. It takes a singular verb —
+          'invites' (with 's').
+
+--------------------------------------------------------------------------------
+
+Q9. Place the garment on the ironing board, smoothening out as many
+    wrinkle as possible.                                              (2025)
+    A. smoothening → smoothing
+    B. wrinkle → wrinkles
+    C. possible → possibly
+    D. Place → Placing
+Answer: B. wrinkle → wrinkles
+Solution: 'As many' is followed by a countable plural noun — 'wrinkles'
+          (plural), not the singular 'wrinkle'.
+
+--------------------------------------------------------------------------------
+
+Q10. This product is manufacturing for infants and contains no additives.
+                                                                     (2025)
+     A. This → These
+     B. is manufacturing → is manufactured
+     C. contains → contain
+     D. infants → infant
+Answer: B. is manufacturing → is manufactured
+Solution: The product does not perform manufacturing; it is the object of
+          manufacturing. Passive voice is required — 'is manufactured'.
+
+--------------------------------------------------------------------------------
+
+Q11. I come across this beautiful painting in an antiques store last week.
+                                                                     (2025)
+     A. come → came
+     B. this → these
+     C. antiques → antique
+     D. beautiful → beautifully
+Answer: A. come → came
+Solution: 'Last week' is a definite past time marker requiring Simple Past.
+          'Come' must be 'came'.
+
+--------------------------------------------------------------------------------
+
+Q12. She may play the piano when she was only eleven.             (2024 C)
+     A. may → could
+     B. play → played
+     C. when → while
+     D. only → just
+Answer: A. may → could
+Solution: 'Could' expresses past ability. The sentence refers to her past
+          skill at age eleven — 'could play' is correct, not 'may play'.
+
+--------------------------------------------------------------------------------
+
+Q13. Air pollution is continuous damaging the whole ecological system
+     affecting the lives of plants and animals as well.           (2024 C)
+     A. continuous → continuously
+     B. affecting → effecting
+     C. lives → life
+     D. whole → wholly
+Answer: A. continuous → continuously
+Solution: An adverb is needed to modify the verb 'damaging'. 'Continuous'
+          is an adjective; the correct adverb form is 'continuously'.
+
+--------------------------------------------------------------------------------
+
+Q14. This site use cookies. By continuing to use our website, you are
+     agreeing to our privacy policy.                               (2024)
+     A. use → uses
+     B. continuing → continued
+     C. agreeing → agreed
+     D. privacy → private
+Answer: A. use → uses
+Solution: 'This site' is a singular subject. In Simple Present, a singular
+          subject takes a verb with 's' — 'uses'.
+
+--------------------------------------------------------------------------------
+
+Q15. Our goal is to promoting healthier meal choices in schools and at
+     home.                                                         (2024)
+     A. goal → goals
+     B. promoting → promote
+     C. in → at
+     D. healthier → healthy
+Answer: B. promoting → promote
+Solution: 'To + base form' (infinitive) is required after 'is to'. 'Promoting'
+          (gerund) is incorrect here — 'is to promote' is correct.
+
+--------------------------------------------------------------------------------
+
+Q16. We reserve the right to make change to this website at any time
+     without notice.                                               (2024)
+     A. reserve → reserves
+     B. change → changes
+     C. without → with
+     D. right → rights
+Answer: B. change → changes
+Solution: 'Make changes' is the correct collocation. 'Change' (singular) is
+          incorrect when referring to multiple possible amendments.
+
+--------------------------------------------------------------------------------
+
+Q17. The soup recipe didn't turned out as expected, it was lacking in
+     flavour.                                                      (2024)
+     A. didn't turned → didn't turn
+     B. as → so
+     C. lacking → lacked
+     D. recipe → receipt
+Answer: A. didn't turned → didn't turn
+Solution: After the auxiliary 'did not/didn't', the base form of the verb is
+          used — 'didn't turn' (not 'didn't turned').
+
+--------------------------------------------------------------------------------
+
+Q18. Our latest software solution is designed for help businesses streamline
+     their operations.                                             (2024)
+     A. is → was
+     B. for → to
+     C. streamline → streamlined
+     D. latest → later
+Answer: B. for → to
+Solution: 'Designed to + infinitive' is the correct structure for expressing
+          purpose. 'For help' is incorrect — it should be 'to help'.
+
+--------------------------------------------------------------------------------
+
+Q19. There's a significant correlation of low income and high crime rates.
+                                                                   (2024)
+     A. There's → There are
+     B. of → between
+     C. high → higher
+     D. significant → significantly
+Answer: B. of → between
+Solution: 'Correlation' always takes the preposition 'between' (not 'of') —
+          'correlation between A and B' is the correct fixed expression.
+
+--------------------------------------------------------------------------------
+
+Q20. Some features cannot be available on your computer.           (2024)
+     A. cannot → may not
+     B. be available → available
+     C. on → in
+     D. Some → Any
+Answer: A. cannot → may not
+Solution: 'Cannot be available' is contradictory — a feature either is or
+          isn't available. 'May not be available' correctly expresses
+          possibility.
+
+--------------------------------------------------------------------------------
+
+Q21. When marginalized voices get a chance to tell their story, anger or
+     sadness would be a justified theme.                           (2024)
+     A. get → got
+     B. would → will
+     C. justified → justifying
+     D. their → there
+Answer: B. would → will
+Solution: The sentence makes a general statement about what happens when
+          marginalized voices speak — Simple Future 'will be' is more
+          appropriate than 'would be' for a general truth.
+
+--------------------------------------------------------------------------------
+
+Q22. "Where words fall music speak." Each batch will contain only five
+     students which will assure personal attention.                (2024)
+     A. fall → fail
+     B. speak → speaks
+     C. which → who
+     D. contain → contains
+Answer: B. speak → speaks
+Solution: 'Music' is a singular subject. Simple Present requires 's' —
+          'music speaks'.
+
+--------------------------------------------------------------------------------
+
+Q23. One of the world's most popular domain name seller, provides fantastic
+     web hosting packages as well.                                 (2024)
+     A. seller → sellers
+     B. provides → provide
+     C. fantastic → fantastically
+     D. popular → popularly
+Answer: A. seller → sellers
+Solution: 'One of the most popular sellers' — 'one of' is followed by a
+          plural noun. 'Seller' must be 'sellers'.
+
+--------------------------------------------------------------------------------
+
+Q24. The upma recipe was so delicious that I couldn't barely stop myself
+     from having a second helping.                                 (2024)
+     A. was → is
+     B. barely → hardly
+     C. couldn't barely → could barely
+     D. delicious → deliciously
+Answer: C. couldn't barely → could barely
+Solution: Double negatives are incorrect. 'Couldn't barely' uses two negatives
+          ('couldn't' + 'barely'). The correct form is 'could barely' (single
+          negative meaning).
+
+--------------------------------------------------------------------------------
+
+Q25. Nearly all the sports practiced nowadays is competitive.     (2023 C)
+     A. Nearly → Almost
+     B. is → are
+     C. competitive → competition
+     D. practiced → practicing
+Answer: B. is → are
+Solution: 'All the sports' is a plural subject. It requires the plural verb
+          'are' — 'all the sports...are competitive'.
+
+--------------------------------------------------------------------------------
+
+Q26. Honesty not only succeed in the long run but also brings about mutual
+     trust and confidence.                                        (2023 C)
+     A. succeed → succeeds
+     B. but also → but rather
+     C. mutual → mutually
+     D. long → longer
+Answer: A. succeed → succeeds
+Solution: 'Honesty' is a singular uncountable noun. Simple Present requires
+          's' on the verb — 'succeeds'.
+
+--------------------------------------------------------------------------------
+
+Q27. Both the boys have got a scolding but either of them paid heed.
+                                                                  (2023 C)
+     A. Both → Each
+     B. either → neither
+     C. paid → pay
+     D. scolding → scold
+Answer: B. either → neither
+Solution: The sentence implies that none of the boys paid heed (negative
+          meaning). 'Either' (used for one of two) should be 'neither'
+          (not one of the two).
+
+--------------------------------------------------------------------------------
+
+Q28. World leaders should work to establish peace of the world.   (2023 C)
+     A. should → must
+     B. of → in
+     C. establish → establishing
+     D. leaders → leader
+Answer: B. of → in
+Solution: The correct phrase is 'peace in the world' — the preposition 'in'
+          indicates location. 'Peace of the world' is incorrect.
+
+--------------------------------------------------------------------------------
+
+Q29. A story, to engage the interest of the read, must include mystery
+     and adventure.                                               (2023 C)
+     A. engage → engaging
+     B. read → reader
+     C. must → should
+     D. include → includes
+Answer: B. read → reader
+Solution: 'Read' is a verb, but a noun is needed here — 'the reader' (the
+          person reading). 'Interest of the reader' is correct.
+
+--------------------------------------------------------------------------------
+
+Q30. The winning athletes were felicitation by the State Government and
+     the City Council.                                            (2023 C)
+     A. winning → win
+     B. felicitation → felicitated
+     C. and → but
+     D. were → was
+Answer: B. felicitation → felicitated
+Solution: 'Were felicitated' requires the past participle of the verb
+          'felicitate' (= to congratulate formally). 'Felicitation' is a
+          noun, not a verb form — incorrect here.
+
+--------------------------------------------------------------------------------
+
+Q31. There was exciting in the air when the winning school team marched
+     into the hall.                                               (2023 C)
+     A. was → were
+     B. exciting → excitement
+     C. marched → march
+     D. winning → won
+Answer: B. exciting → excitement
+Solution: 'Excitement' is the noun needed after 'was'. 'Exciting' is an
+          adjective/verb form — 'there was excitement in the air'.
+
+--------------------------------------------------------------------------------
+
+Q32. The art displays in the wall were a wonderful way for children to
+     express their talent.                                        (2023 C)
+     A. displays → display
+     B. in → on
+     C. wonderful → wonderfully
+     D. express → expressed
+Answer: B. in → on
+Solution: Art is displayed 'on' a wall (surface), not 'in' a wall.
+          'On the wall' is the correct prepositional phrase.
+
+--------------------------------------------------------------------------------
+
+Q33. My sister lives at the ground floor of a two-storeyed apartment.
+                                                                   (2023)
+     A. lives → live
+     B. at → on
+     C. two-storeyed → two-storey
+     D. ground → grounds
+Answer: B. at → on
+Solution: Floors of a building use the preposition 'on' — 'lives on the
+          ground floor'. 'At' is incorrect.
+
+--------------------------------------------------------------------------------
+
+Q34. I can't never forget my childhood friend Bella.               (2023)
+     A. can't never → can never
+     B. forget → forgotten
+     C. my → mine
+     D. childhood → child
+Answer: A. can't never → can never
+Solution: 'Can't never' is a double negative (two negative words together),
+          which is grammatically incorrect in standard English. 'Can never'
+          is correct.
+
+--------------------------------------------------------------------------------
+
+Q35. Playing outdoor games have benefits over being indoors.       (2023)
+     A. Playing → Play
+     B. have → has
+     C. over → than
+     D. outdoor → outdoors
+Answer: B. have → has
+Solution: 'Playing outdoor games' is a gerund phrase acting as a singular
+          subject. It requires the singular verb 'has'.
+
+--------------------------------------------------------------------------------
+
+Q36. The sounds of laughter was echoing in the corridor.           (2023)
+     A. sounds → sound
+     B. was → were
+     C. in → of
+     D. laughter → laughing
+Answer: B. was → were
+Solution: The subject is 'sounds' (plural). The verb must agree — 'were
+          echoing' (plural past continuous).
+
+--------------------------------------------------------------------------------
+
+Q37. The children were exciting when they saw the leopard.         (2023)
+     A. were → was
+     B. exciting → excited
+     C. saw → see
+     D. leopard → leopards
+Answer: B. exciting → excited
+Solution: 'Excited' (past participle) describes how the children felt.
+          'Exciting' means something that causes excitement in others —
+          'the children were excited' is correct.
+
+--------------------------------------------------------------------------------
+
+Q38. Water was vital to human health and fitness.                  (2023)
+     A. Water → Waters
+     B. was → is
+     C. vital → vitally
+     D. human → humans
+Answer: B. was → is
+Solution: Water's importance to health is a permanent/universal truth.
+          Simple Present 'is' is used for general truths — 'water is vital'.
+
+--------------------------------------------------------------------------------
+
+Q39. Spending time for their kids brings immediate as well as long-last
+     gain for a parents.                                           (2020)
+     A. for → with
+     B. long-last → long-lasting
+     C. a parents → the parents
+     D. brings → bring
+Answer: B. long-last → long-lasting
+Solution: 'Long-lasting' is the correct compound adjective meaning 'enduring
+          over a long period'. 'Long-last' is not a standard English word.
+
+--------------------------------------------------------------------------------
+
+Q40. The city police have decide to taking stern action against drivers
+     which attempt to overtake in the left side on city roads.     (2020)
+     A. have decide → have decided
+     B. taking → take
+     C. which → who
+     D. stern → sternly
+Answer: A. have decide → have decided
+Solution: 'Have' is a Present Perfect auxiliary requiring the past participle
+          'decided' — 'have decided'. 'Decide' is the base form and incorrect.
+
+--------------------------------------------------------------------------------
+
+Q41. Airports have became an important part of big city now. Small planes
+     are being use by some people to travelling from one city to another.
+                                                                (2020 C)
+     A. have became → have become
+     B. being use → being used
+     C. to travelling → to travel
+     D. important → importantly
+Answer: A. have became → have become
+Solution: 'Have + past participle' requires 'become' (not 'became' which is
+          Simple Past). 'Have become' is the correct Present Perfect form.
+
+--------------------------------------------------------------------------------
+
+Q42. The pleasure in being outdoors is fundamental for human happiness.
+     There are so much to learn.                                   (2019)
+     A. in → of
+     B. fundamental → fundamentally
+     C. are → is
+     D. much → many
+Answer: C. are → is
+Solution: 'There is so much to learn' — 'much' (uncountable) requires the
+          singular 'is', not 'are'. 'There are so many things' would be an
+          alternative phrasing but is not the error here.
+
+--------------------------------------------------------------------------------
+
+Q43. It is an constant source of delight to know more on the flora and
+     fauna around.                                                 (2019)
+     A. an → a
+     B. on → about
+     C. more → most
+     D. constant → constantly
+Answer: B. on → about
+Solution: 'Know about' is the correct phrasal verb — 'know about flora and
+          fauna'. 'Know on' is not a standard English expression.
+
+--------------------------------------------------------------------------------
+
+Q44. Countries near on equator are much warmer then countries farthest to
+     the north and south.                                          (2019)
+     A. near on → near the
+     B. then → than
+     C. farthest to → farthest from
+     D. warmer → warmest
+Answer: B. then → than
+Solution: 'Than' is used in comparisons — 'warmer than'. 'Then' refers to
+          time (sequence of events) and is incorrect in a comparison.
+
+--------------------------------------------------------------------------------
+
+Q45. In the prisoner's room a candle is burning dimly. Only him back, the
+     hair by his head, and his hands are visible from outside.     (2018)
+     A. is → was
+     B. him → his
+     C. by → on
+     D. visible → visibly
+Answer: B. him → his
+Solution: A possessive adjective is needed before the noun 'back'. 'Him'
+          is an object pronoun — 'his back' is correct.
+
+--------------------------------------------------------------------------------
+
+Q46. On the way back, one of his men fall into a coma.             (2017)
+     A. fall → fell
+     B. one → ones
+     C. his → their
+     D. way → ways
+Answer: A. fall → fell
+Solution: The narrative is in past tense. 'Fall' (present) must be 'fell'
+          (Simple Past) to maintain tense consistency.
+
+--------------------------------------------------------------------------------
+
+Q47. Scott is left with none other alternative but to pitch his tent and
+     waiting for the blizzard to pass.                             (2017)
+     A. none → no
+     B. waiting → wait
+     C. blizzard → blizzards
+     D. pitch → pitched
+Answer: B. waiting → wait
+Solution: 'But to + base verb' is a fixed structure — 'but to pitch and
+          wait'. 'Waiting' (gerund/continuous) is grammatically incorrect
+          in parallel with 'to pitch'.
+
+--------------------------------------------------------------------------------
+
+Q48. Unfortunately the blizzard grown fiercer.                     (2017)
+     A. the → a
+     B. grown → grew
+     C. fiercer → most fierce
+     D. Unfortunately → Unfortunate
+Answer: B. grown → grew
+Solution: Simple Past 'grew' is needed for a narrative past event. 'Grown'
+          is a past participle (requires auxiliary 'had' — 'had grown').
+
+--------------------------------------------------------------------------------
+
+Q49. It can happen only at India.                                  (2017)
+     A. can → could
+     B. at → in
+     C. happen → happens
+     D. only → just
+Answer: B. at → in
+Solution: Countries use the preposition 'in' — 'in India'. 'At' is used for
+          specific points/locations (bus stop, airport etc.), not countries.
+
+--------------------------------------------------------------------------------
+
+Q50. We, here in India have so many religions, we ate so many different
+     foods.                                                        (2017)
+     A. ate → eat
+     B. so many → so much
+     C. here → there
+     D. different → differently
+Answer: A. ate → eat
+Solution: The sentence describes an ongoing cultural reality, not a past
+          event. Simple Present 'eat' is correct — 'we eat many different
+          foods'.
+
+--------------------------------------------------------------------------------
+
+Q51. We wear so much different kinds of dresses. Still we are much united
+     than any other country on the world.                          (2017)
+     A. so much → so many
+     B. much → more
+     C. on → in
+     D. united → unite
+Answer: A. so much → so many
+Solution: 'Kinds' is a countable plural noun, requiring 'many' (not 'much'
+          which is for uncountable nouns) — 'so many different kinds'.
+
+--------------------------------------------------------------------------------
+
+Q52. We should been proud of ourselves. Each one of us have good qualities.
+                                                                   (2017)
+     A. should been → should be
+     B. have → has
+     C. Each → Every
+     D. proud → proudly
+Answer: A. should been → should be
+Solution: 'Should + base verb' is the correct modal structure. 'Been' is a
+          past participle — 'should be' (not 'should been') is correct.
+
+--------------------------------------------------------------------------------
+
+Q53. In this way we can hoped to succeed in life.                  (2017)
+     A. can hoped → can hope
+     B. to succeed → succeeding
+     C. in → at
+     D. way → ways
+Answer: A. can hoped → can hope
+Solution: 'Can + base verb' is the modal structure. 'Hoped' is past tense —
+          'can hope' (base form) is correct.
+
+--------------------------------------------------------------------------------
+
+Q54. I met her by chance then I went to getting some medicine which Sister
+     Amy use to give.                                              (2017)
+     A. then → when
+     B. to getting → to get
+     C. use to → used to
+     D. met → meet
+Answer: C. use to → used to
+Solution: 'Used to' expresses a past habitual action. 'Use to' (without 'd')
+          is incorrect — 'used to give' is the standard form.
+
+--------------------------------------------------------------------------------
+
+Q55. It was amazing for meet Mother. I start loving just her presence.
+                                                                   (2017)
+     A. for → to
+     B. start → started
+     C. just → only
+     D. amazing → amazingly
+Answer: A. for → to
+Solution: 'Amazing to + infinitive' is the correct structure for purpose/
+          experience. 'For meet' is incorrect — 'amazing to meet' is right.
+
+--------------------------------------------------------------------------------
+
+Q56. Being with her give one a new kind on energy.                 (2017)
+     A. give → gives
+     B. on → of
+     C. a → an
+     D. Being → Be
+Answer: B. on → of
+Solution: 'A kind of energy' is the correct prepositional phrase. 'Kind on'
+          is not a standard expression — 'kind of' is correct.
+
+--------------------------------------------------------------------------------
+
+Q57. My meetings of Mother had always been a finer experience. I would go
+     to him whenever I was sad, happy and angry.                   (2017)
+     A. of → with
+     B. him → her
+     C. finer → finest
+     D. always → ever
+Answer: B. him → her
+Solution: Mother is a female subject. The pronoun must be 'her' — 'I would
+          go to her' (not 'him').
+
+--------------------------------------------------------------------------------
+
+Q58. She said that whenever I go to parties, if here was any leftover food
+     I should picked it up.                                        (2017)
+     A. go → went
+     B. here → there
+     C. picked → pick
+     D. leftover → left over
+Answer: B. here → there
+Solution: 'Here' refers to a location near the speaker. In reported speech/
+          narrative, 'there' is used for a location away from the speaker —
+          'if there was any leftover food'.
+
+--------------------------------------------------------------------------------
+
+Q59. Bring it on the poor people. It was one of a most difficult things
+     to do.                                                        (2017)
+     A. on → to
+     B. a most → the most
+     C. things → thing
+     D. difficult → difficulty
+Answer: B. a most → the most
+Solution: Superlatives use the definite article 'the' — 'one of the most
+          difficult things'. 'A most' is incorrect for a superlative structure.
+
+--------------------------------------------------------------------------------
+
+Q60. It is well know that in winter birds fly in the sunny South, or in
+     spring, they fly back North to their breed grounds they had leave
+     behind.                                                    (2017 C)
+     A. well know → well known
+     B. breed → breeding
+     C. leave → left
+     D. fly → flies
+Answer: A. well know → well known
+Solution: 'Well known' is the correct compound adjective (past participle).
+          'Know' is the base verb form — 'well known' is correct.
+
+--------------------------------------------------------------------------------
+
+Q61. Research is an detailed study of a subject undertaking on a systematic
+     basis in order to increase a stock of knowledge.              (2016)
+     A. an → a
+     B. undertaking → undertaken
+     C. increase → increasing
+     D. systematic → system
+Answer: A. an → a
+Solution: 'A' is used before consonant sounds. 'Detailed' begins with the
+          consonant sound /d/ — 'a detailed study' is correct, not 'an'.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,17 @@
+[
+  {"type":"single","year":"2023","q":"One _______ read the newspaper every day.","options":["should","would","can","may"],"answer":0},
+  {"type":"single","year":"2023","q":"The domestic cat _______ related to the lion and the tiger.","options":["be","is being","has been","is"],"answer":2},
+  {"type":"single","year":"2023","q":"We _______ not really change a man's mind and heart with money.","options":["can","could","may","might"],"answer":0},
+  {"type":"single","year":"2023","q":"Economics _______ difficult for the students of grade nine.","options":["is","are","has","were"],"answer":0},
+  {"type":"single","year":"2023","q":"If you had worked hard, you _______ have passed.","options":["may","will","would","might"],"answer":2},
+  {"type":"single","year":"2023","q":"Parents must _______ their children's leisure activities.","options":["look at","look into","look away","look up"],"answer":1},
+  {"type":"single","year":"2023","q":"Keep the environment clean. Do not litter. You _______ follow rules.","options":["should","may","must","will"],"answer":2},
+  {"type":"single","year":"2023","q":"In times of trouble you can always _______ your parents for help.","options":["turn in","turn to","turn on","turn away"],"answer":1},
+  {"type":"single","year":"2023","q":"The doctor _______ examined the patient when the family arrived.","options":["was","had","has","have"],"answer":1},
+  {"type":"single","year":"2023","q":"The public _______ feed the animals in a zoo.","options":["should not","ought not to","must not","need not"],"answer":2},
+  {"type":"single","year":"2023","q":"There is _______ sugar in the tin for a cup of tea.","options":["enough","much","more","little"],"answer":0},
+  {"type":"single","year":"2023","q":"Sita is working hard these days. I think she _______ admission in a medical college.","options":["will get","might get","would get","would be getting"],"answer":1},
+  {"type":"single","year":"2023","q":"The train is running late, we _______ for one hour.","options":["would wait","should have to wait","shall have to wait","may be waiting"],"answer":2},
+  {"type":"paragraph","year":"2020","passage":"After __(a)__ a week in the cottage, he decided that he didn't really enjoy __(b)__ in the countryside and began __(c)__ of an excuse for __(d)__ the cottage.","blanks":[{"id":"a","options":["spending","have spent","spent","spends"],"answer":0},{"id":"b","options":["to living","lived","living","lives"],"answer":2},{"id":"c","options":["to thinking","to thought","thought","to think"],"answer":3},{"id":"d","options":["sold","selling","sells","sale"],"answer":1}]},
+  {"type":"paragraph","year":"2020","passage":"Reading books __(a)__ a good hobby. Books open __(b)__ new world to us. They increase __(c)__ knowledge and change our outlook __(d)__ the world.","blanks":[{"id":"a","options":["has","was","are","is"],"answer":3},{"id":"b","options":["the","a","an","some"],"answer":1},{"id":"c","options":["his","one's","our","your"],"answer":2},{"id":"d","options":["towards","for","by","from"],"answer":0}]}
+]
