@@ -308,13 +308,14 @@
             const passageText = document.createElement('p');
             passageText.className = "text-white font-bold text-base md:text-lg leading-relaxed tracking-wide";
             
-            // Replace blank markers __(a)__ with simple underline + letter (old style)
+            // Replace blank markers __(a)__ with simple underline + Roman numeral
             let passageHtml = item.passage;
+            const romanNumerals = ['i', 'ii', 'iii', 'iv', 'v', 'vi'];
             blanks.forEach((blank, idx) => {
                 const regex = new RegExp(`__\\(${blank.id}\\)__`, 'g');
-                const rowLetter = ['A', 'B', 'C', 'D', 'E', 'F'][idx];
+                const romanLabel = romanNumerals[idx];
                 passageHtml = passageHtml.replace(regex, 
-                    `<span id="passage-blank-${index}-${blank.id}" class="inline-block min-w-[60px] md:min-w-[80px] border-b-2 border-slate-400 text-slate-400 text-center font-bold mx-1 transition-all duration-300">${rowLetter}</span>`
+                    `<span id="passage-blank-${index}-${blank.id}" class="inline-block min-w-[60px] md:min-w-[80px] border-b-2 border-slate-400 text-slate-400 text-center font-bold mx-1 transition-all duration-300">${romanLabel}</span>`
                 );
             });
             passageText.innerHTML = passageHtml;
@@ -340,7 +341,7 @@
             card.appendChild(header);
 
             // === OPTIONS MATRIX SECTION ===
-            // Structure: Rows = A, B, C (blanks), Columns = 1, 2, 3, 4 (options)
+            // Structure: Rows = i, ii, iii (blanks), Columns = A, B, C, D (options)
             const optionsSection = document.createElement('div');
             optionsSection.className = "p-3 md:p-5";
 
@@ -353,7 +354,8 @@
                 blankOptions.push(opts);
             });
 
-            const rowLetters = ['A', 'B', 'C', 'D', 'E', 'F'];
+            const rowRomans = ['i', 'ii', 'iii', 'iv', 'v', 'vi']; // Roman numerals for blank labels
+            const optionLetters = ['A', 'B', 'C', 'D', 'E', 'F']; // Letters for MCQ options
             const numRows = blanks.length; // Rows = number of blanks
             const numCols = blanks.length > 0 ? blanks[0].options.length : 4; // Columns = number of options
 
@@ -371,17 +373,17 @@
                 document.head.appendChild(style);
             }
 
-            // Create matrix rows (A, B, C = blanks)
+            // Create matrix rows (i, ii, iii = blanks with Roman numerals)
             blanks.forEach((blank, rowIdx) => {
                 const row = document.createElement('div');
                 row.className = "flex items-stretch gap-2 md:gap-3 mb-2 md:mb-3";
                 row.setAttribute('data-row', rowIdx);
                 row.setAttribute('data-blank-id', blank.id);
 
-                // Row letter badge (A, B, C = blank labels)
+                // Row Roman numeral badge (i, ii, iii = blank labels)
                 const rowBadge = document.createElement('span');
                 rowBadge.className = "inline-flex items-center justify-center w-10 md:w-12 rounded-xl text-base md:text-lg font-black shrink-0 border-2 border-slate-600 bg-slate-800 text-slate-300";
-                rowBadge.textContent = rowLetters[rowIdx];
+                rowBadge.textContent = rowRomans[rowIdx];
                 row.appendChild(rowBadge);
 
                 // Options container - grid: 2x2 on mobile, 1x4 on desktop
@@ -389,11 +391,11 @@
                 optsContainer.className = "flex-1 grid gap-1.5 md:gap-3 passage-opts-grid";
                 optsContainer.style.setProperty('--num-cols', numCols);
 
-                // Each column is an option (1, 2, 3, 4)
+                // Each column is an option (A, B, C, D)
                 blankOptions[rowIdx].forEach((optObj, colIdx) => {
                     const btn = document.createElement('button');
                     btn.className = "w-full text-left px-3 py-2.5 md:px-4 md:py-3 rounded-lg border-2 border-slate-600 text-slate-100 font-semibold text-sm md:text-base bg-slate-700/80 hover:bg-slate-600 hover:border-slate-400 focus:outline-none shadow-md transition-all transform active:scale-[0.98]";
-                    btn.innerHTML = `<span class="text-slate-400 font-bold">${colIdx + 1}.</span> ${optObj.text}`;
+                    btn.innerHTML = `<span class="text-slate-400 font-bold">${optionLetters[colIdx]}.</span> ${optObj.text}`;
                     btn.setAttribute('data-blank-id', blank.id);
                     btn.setAttribute('data-option-col', colIdx);
                     btn.setAttribute('data-row', rowIdx);
