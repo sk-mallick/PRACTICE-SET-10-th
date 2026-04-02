@@ -1,12 +1,12 @@
 export default {
-    order: 1,
+    order: 2,
     title: "Error Correction",
     description: "CBSE Class 10",
-    engine: "mcq",
+    engine: "cbse-mcq-engine-error",
     icon: "alert",
-    sets: 5,
+    sets: 4,
     level: "C10",
-    headerTitle: "Error Correction",
+    headerTitle: "Fill in the Blanks",
     headerSubtitlePrefix: "CBSE Board",
     pdfheader: "Error Correction",
 }

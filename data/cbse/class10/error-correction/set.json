@@ -1,429 +1,65 @@
 [
-  {
-    "q": "Health experts worldwide are concerning about the surge in health problems.",
-    "options": ["concerning → concerned", "are → were", "surge → surging", "worldwide → worldwide's"],
-    "answer": 0,
-    "year": "2025",
-    "solution": "'Concerning' is an adjective meaning 'worrying', but here we need the past participle 'concerned' as in 'to be concerned about' (= to be worried about). Correct: 'are concerned'."
-  },
-  {
-    "q": "\"Embrace change as an opportunity for personal growth and allowed it to improve your life.\"",
-    "options": ["Embrace → Embracing", "allowed → allow", "improve → improving", "opportunity → opportunities"],
-    "answer": 1,
-    "year": "2025",
-    "solution": "The sentence uses parallel imperatives: 'Embrace...and allow...' Both verbs should be in base form (imperative). 'Allowed' must be 'allow'."
-  },
-  {
-    "q": "Kanyakumari is popular for its beautiful beaches, unique Vivekananda Rock Memorial and stunning sunrise and sunset view.",
-    "options": ["is → are", "its → their", "view → views", "popular → popularity"],
-    "answer": 2,
-    "year": "2025",
-    "solution": "'Sunrise and sunset view' refers to more than one view (both sunrise AND sunset), so the plural 'views' is required."
-  },
-  {
-    "q": "Mobile phones has become an integral part of life.",
-    "options": ["phones → phone", "has → have", "become → became", "integral → integrally"],
-    "answer": 1,
-    "year": "2025",
-    "solution": "'Mobile phones' is a plural subject. It requires the plural auxiliary verb 'have' — 'Mobile phones have become'."
-  },
-  {
-    "q": "He usually ate breakfast before he goes to school.",
-    "options": ["usually → always", "ate → eats", "goes → went", "before → after"],
-    "answer": 2,
-    "year": "2025",
-    "solution": "The main verb 'ate' is in Simple Past. The subordinate clause must also be in past tense — 'goes' should be 'went' for consistency."
-  },
-  {
-    "q": "Sleep is important in maintain one's health and well being.",
-    "options": ["is → was", "in → to", "maintain → maintaining", "one's → ones"],
-    "answer": 1,
-    "year": "2025",
-    "solution": "'Important to + infinitive' is the correct structure. 'In maintain' is incorrect; it should be 'important to maintain'."
-  },
-  {
-    "q": "Be the changes you want to see in the world.",
-    "options": ["Be → Being", "changes → change", "want → wanted", "see → saw"],
-    "answer": 1,
-    "year": "2025",
-    "solution": "The famous quote is 'Be the change you want to see in the world.' 'Change' should be singular — referring to one transformation."
-  },
-  {
-    "q": "The board invite online applications from eligible candidates for the post of a senior English teacher.",
-    "options": ["invite → invites", "eligible → eligibility", "post → posts", "online → on line"],
-    "answer": 0,
-    "year": "2025",
-    "solution": "'The board' is a collective singular noun. It takes a singular verb — 'invites' (with 's')."
-  },
-  {
-    "q": "Place the garment on the ironing board, smoothening out as many wrinkle as possible.",
-    "options": ["smoothening → smoothing", "wrinkle → wrinkles", "possible → possibly", "Place → Placing"],
-    "answer": 1,
-    "year": "2025",
-    "solution": "'As many' is followed by a countable plural noun — 'wrinkles' (plural), not the singular 'wrinkle'."
-  },
-  {
-    "q": "This product is manufacturing for infants and contains no additives.",
-    "options": ["This → These", "is manufacturing → is manufactured", "contains → contain", "infants → infant"],
-    "answer": 1,
-    "year": "2025",
-    "solution": "The product does not perform manufacturing; it is the object of manufacturing. Passive voice is required — 'is manufactured'."
-  },
-  {
-    "q": "I come across this beautiful painting in an antiques store last week.",
-    "options": ["come → came", "this → these", "antiques → antique", "beautiful → beautifully"],
-    "answer": 0,
-    "year": "2025",
-    "solution": "'Last week' is a definite past time marker requiring Simple Past. 'Come' must be 'came'."
-  },
-  {
-    "q": "She may play the piano when she was only eleven.",
-    "options": ["may → could", "play → played", "when → while", "only → just"],
-    "answer": 0,
-    "year": "2024 C",
-    "solution": "'Could' expresses past ability. The sentence refers to her past skill at age eleven — 'could play' is correct, not 'may play'."
-  },
-  {
-    "q": "Air pollution is continuous damaging the whole ecological system affecting the lives of plants and animals as well.",
-    "options": ["continuous → continuously", "affecting → effecting", "lives → life", "whole → wholly"],
-    "answer": 0,
-    "year": "2024 C",
-    "solution": "An adverb is needed to modify the verb 'damaging'. 'Continuous' is an adjective; the correct adverb form is 'continuously'."
-  },
-  {
-    "q": "This site use cookies. By continuing to use our website, you are agreeing to our privacy policy.",
-    "options": ["use → uses", "continuing → continued", "agreeing → agreed", "privacy → private"],
-    "answer": 0,
-    "year": "2024",
-    "solution": "'This site' is a singular subject. In Simple Present, a singular subject takes a verb with 's' — 'uses'."
-  },
-  {
-    "q": "Our goal is to promoting healthier meal choices in schools and at home.",
-    "options": ["goal → goals", "promoting → promote", "in → at", "healthier → healthy"],
-    "answer": 1,
-    "year": "2024",
-    "solution": "'To + base form' (infinitive) is required after 'is to'. 'Promoting' (gerund) is incorrect here — 'is to promote' is correct."
-  },
-  {
-    "q": "We reserve the right to make change to this website at any time without notice.",
-    "options": ["reserve → reserves", "change → changes", "without → with", "right → rights"],
-    "answer": 1,
-    "year": "2024",
-    "solution": "'Make changes' is the correct collocation. 'Change' (singular) is incorrect when referring to multiple possible amendments."
-  },
-  {
-    "q": "The soup recipe didn't turned out as expected, it was lacking in flavour.",
-    "options": ["didn't turned → didn't turn", "as → so", "lacking → lacked", "recipe → receipt"],
-    "answer": 0,
-    "year": "2024",
-    "solution": "After the auxiliary 'did not/didn't', the base form of the verb is used — 'didn't turn' (not 'didn't turned')."
-  },
-  {
-    "q": "Our latest software solution is designed for help businesses streamline their operations.",
-    "options": ["is → was", "for → to", "streamline → streamlined", "latest → later"],
-    "answer": 1,
-    "year": "2024",
-    "solution": "'Designed to + infinitive' is the correct structure for expressing purpose. 'For help' is incorrect — it should be 'to help'."
-  },
-  {
-    "q": "There's a significant correlation of low income and high crime rates.",
-    "options": ["There's → There are", "of → between", "high → higher", "significant → significantly"],
-    "answer": 1,
-    "year": "2024",
-    "solution": "'Correlation' always takes the preposition 'between' (not 'of') — 'correlation between A and B' is the correct fixed expression."
-  },
-  {
-    "q": "Some features cannot be available on your computer.",
-    "options": ["cannot → may not", "be available → available", "on → in", "Some → Any"],
-    "answer": 0,
-    "year": "2024",
-    "solution": "'Cannot be available' is contradictory — a feature either is or isn't available. 'May not be available' correctly expresses possibility."
-  },
-  {
-    "q": "When marginalized voices get a chance to tell their story, anger or sadness would be a justified theme.",
-    "options": ["get → got", "would → will", "justified → justifying", "their → there"],
-    "answer": 1,
-    "year": "2024",
-    "solution": "The sentence makes a general statement about what happens when marginalized voices speak — Simple Future 'will be' is more appropriate than 'would be' for a general truth."
-  },
-  {
-    "q": "\"Where words fall music speak.\" Each batch will contain only five students which will assure personal attention.",
-    "options": ["fall → fail", "speak → speaks", "which → who", "contain → contains"],
-    "answer": 1,
-    "year": "2024",
-    "solution": "'Music' is a singular subject. Simple Present requires 's' — 'music speaks'."
-  },
-  {
-    "q": "One of the world's most popular domain name seller, provides fantastic web hosting packages as well.",
-    "options": ["seller → sellers", "provides → provide", "fantastic → fantastically", "popular → popularly"],
-    "answer": 0,
-    "year": "2024",
-    "solution": "'One of the most popular sellers' — 'one of' is followed by a plural noun. 'Seller' must be 'sellers'."
-  },
-  {
-    "q": "The upma recipe was so delicious that I couldn't barely stop myself from having a second helping.",
-    "options": ["was → is", "barely → hardly", "couldn't barely → could barely", "delicious → deliciously"],
-    "answer": 2,
-    "year": "2024",
-    "solution": "Double negatives are incorrect. 'Couldn't barely' uses two negatives ('couldn't' + 'barely'). The correct form is 'could barely' (single negative meaning)."
-  },
-  {
-    "q": "Nearly all the sports practiced nowadays is competitive.",
-    "options": ["Nearly → Almost", "is → are", "competitive → competition", "practiced → practicing"],
-    "answer": 1,
-    "year": "2023 C",
-    "solution": "'All the sports' is a plural subject. It requires the plural verb 'are' — 'all the sports...are competitive'."
-  },
-  {
-    "q": "Honesty not only succeed in the long run but also brings about mutual trust and confidence.",
-    "options": ["succeed → succeeds", "but also → but rather", "mutual → mutually", "long → longer"],
-    "answer": 0,
-    "year": "2023 C",
-    "solution": "'Honesty' is a singular uncountable noun. Simple Present requires 's' on the verb — 'succeeds'."
-  },
-  {
-    "q": "Both the boys have got a scolding but either of them paid heed.",
-    "options": ["Both → Each", "either → neither", "paid → pay", "scolding → scold"],
-    "answer": 1,
-    "year": "2023 C",
-    "solution": "The sentence implies that none of the boys paid heed (negative meaning). 'Either' (used for one of two) should be 'neither' (not one of the two)."
-  },
-  {
-    "q": "World leaders should work to establish peace of the world.",
-    "options": ["should → must", "of → in", "establish → establishing", "leaders → leader"],
-    "answer": 1,
-    "year": "2023 C",
-    "solution": "The correct phrase is 'peace in the world' — the preposition 'in' indicates location. 'Peace of the world' is incorrect."
-  },
-  {
-    "q": "A story, to engage the interest of the read, must include mystery and adventure.",
-    "options": ["engage → engaging", "read → reader", "must → should", "include → includes"],
-    "answer": 1,
-    "year": "2023 C",
-    "solution": "'Read' is a verb, but a noun is needed here — 'the reader' (the person reading). 'Interest of the reader' is correct."
-  },
-  {
-    "q": "The winning athletes were felicitation by the State Government and the City Council.",
-    "options": ["winning → win", "felicitation → felicitated", "and → but", "were → was"],
-    "answer": 1,
-    "year": "2023 C",
-    "solution": "'Were felicitated' requires the past participle of the verb 'felicitate' (= to congratulate formally). 'Felicitation' is a noun, not a verb form — incorrect here."
-  },
-  {
-    "q": "There was exciting in the air when the winning school team marched into the hall.",
-    "options": ["was → were", "exciting → excitement", "marched → march", "winning → won"],
-    "answer": 1,
-    "year": "2023 C",
-    "solution": "'Excitement' is the noun needed after 'was'. 'Exciting' is an adjective/verb form — 'there was excitement in the air'."
-  },
-  {
-    "q": "The art displays in the wall were a wonderful way for children to express their talent.",
-    "options": ["displays → display", "in → on", "wonderful → wonderfully", "express → expressed"],
-    "answer": 1,
-    "year": "2023 C",
-    "solution": "Art is displayed 'on' a wall (surface), not 'in' a wall. 'On the wall' is the correct prepositional phrase."
-  },
-  {
-    "q": "My sister lives at the ground floor of a two-storeyed apartment.",
-    "options": ["lives → live", "at → on", "two-storeyed → two-storey", "ground → grounds"],
-    "answer": 1,
-    "year": "2023",
-    "solution": "Floors of a building use the preposition 'on' — 'lives on the ground floor'. 'At' is incorrect."
-  },
-  {
-    "q": "I can't never forget my childhood friend Bella.",
-    "options": ["can't never → can never", "forget → forgotten", "my → mine", "childhood → child"],
-    "answer": 0,
-    "year": "2023",
-    "solution": "'Can't never' is a double negative (two negative words together), which is grammatically incorrect in standard English. 'Can never' is correct."
-  },
-  {
-    "q": "Playing outdoor games have benefits over being indoors.",
-    "options": ["Playing → Play", "have → has", "over → than", "outdoor → outdoors"],
-    "answer": 1,
-    "year": "2023",
-    "solution": "'Playing outdoor games' is a gerund phrase acting as a singular subject. It requires the singular verb 'has'."
-  },
-  {
-    "q": "The sounds of laughter was echoing in the corridor.",
-    "options": ["sounds → sound", "was → were", "in → of", "laughter → laughing"],
-    "answer": 1,
-    "year": "2023",
-    "solution": "The subject is 'sounds' (plural). The verb must agree — 'were echoing' (plural past continuous)."
-  },
-  {
-    "q": "The children were exciting when they saw the leopard.",
-    "options": ["were → was", "exciting → excited", "saw → see", "leopard → leopards"],
-    "answer": 1,
-    "year": "2023",
-    "solution": "'Excited' (past participle) describes how the children felt. 'Exciting' means something that causes excitement in others — 'the children were excited' is correct."
-  },
-  {
-    "q": "Water was vital to human health and fitness.",
-    "options": ["Water → Waters", "was → is", "vital → vitally", "human → humans"],
-    "answer": 1,
-    "year": "2023",
-    "solution": "Water's importance to health is a permanent/universal truth. Simple Present 'is' is used for general truths — 'water is vital'."
-  },
-  {
-    "q": "Spending time for their kids brings immediate as well as long-last gain for a parents.",
-    "options": ["for → with", "long-last → long-lasting", "a parents → the parents", "brings → bring"],
-    "answer": 1,
-    "year": "2020",
-    "solution": "'Long-lasting' is the correct compound adjective meaning 'enduring over a long period'. 'Long-last' is not a standard English word."
-  },
-  {
-    "q": "The city police have decide to taking stern action against drivers which attempt to overtake in the left side on city roads.",
-    "options": ["have decide → have decided", "taking → take", "which → who", "stern → sternly"],
-    "answer": 0,
-    "year": "2020",
-    "solution": "'Have' is a Present Perfect auxiliary requiring the past participle 'decided' — 'have decided'. 'Decide' is the base form and incorrect."
-  },
-  {
-    "q": "Airports have became an important part of big city now. Small planes are being use by some people to travelling from one city to another.",
-    "options": ["have became → have become", "being use → being used", "to travelling → to travel", "important → importantly"],
-    "answer": 0,
-    "year": "2020 C",
-    "solution": "'Have + past participle' requires 'become' (not 'became' which is Simple Past). 'Have become' is the correct Present Perfect form."
-  },
-  {
-    "q": "The pleasure in being outdoors is fundamental for human happiness. There are so much to learn.",
-    "options": ["in → of", "fundamental → fundamentally", "are → is", "much → many"],
-    "answer": 2,
-    "year": "2019",
-    "solution": "'There is so much to learn' — 'much' (uncountable) requires the singular 'is', not 'are'. 'There are so many things' would be an alternative phrasing but is not the error here."
-  },
-  {
-    "q": "It is an constant source of delight to know more on the flora and fauna around.",
-    "options": ["an → a", "on → about", "more → most", "constant → constantly"],
-    "answer": 1,
-    "year": "2019",
-    "solution": "'Know about' is the correct phrasal verb — 'know about flora and fauna'. 'Know on' is not a standard English expression."
-  },
-  {
-    "q": "Countries near on equator are much warmer then countries farthest to the north and south.",
-    "options": ["near on → near the", "then → than", "farthest to → farthest from", "warmer → warmest"],
-    "answer": 1,
-    "year": "2019",
-    "solution": "'Than' is used in comparisons — 'warmer than'. 'Then' refers to time (sequence of events) and is incorrect in a comparison."
-  },
-  {
-    "q": "In the prisoner's room a candle is burning dimly. Only him back, the hair by his head, and his hands are visible from outside.",
-    "options": ["is → was", "him → his", "by → on", "visible → visibly"],
-    "answer": 1,
-    "year": "2018",
-    "solution": "A possessive adjective is needed before the noun 'back'. 'Him' is an object pronoun — 'his back' is correct."
-  },
-  {
-    "q": "On the way back, one of his men fall into a coma.",
-    "options": ["fall → fell", "one → ones", "his → their", "way → ways"],
-    "answer": 0,
-    "year": "2017",
-    "solution": "The narrative is in past tense. 'Fall' (present) must be 'fell' (Simple Past) to maintain tense consistency."
-  },
-  {
-    "q": "Scott is left with none other alternative but to pitch his tent and waiting for the blizzard to pass.",
-    "options": ["none → no", "waiting → wait", "blizzard → blizzards", "pitch → pitched"],
-    "answer": 1,
-    "year": "2017",
-    "solution": "'But to + base verb' is a fixed structure — 'but to pitch and wait'. 'Waiting' (gerund/continuous) is grammatically incorrect in parallel with 'to pitch'."
-  },
-  {
-    "q": "Unfortunately the blizzard grown fiercer.",
-    "options": ["the → a", "grown → grew", "fiercer → most fierce", "Unfortunately → Unfortunate"],
-    "answer": 1,
-    "year": "2017",
-    "solution": "Simple Past 'grew' is needed for a narrative past event. 'Grown' is a past participle (requires auxiliary 'had' — 'had grown')."
-  },
-  {
-    "q": "It can happen only at India.",
-    "options": ["can → could", "at → in", "happen → happens", "only → just"],
-    "answer": 1,
-    "year": "2017",
-    "solution": "Countries use the preposition 'in' — 'in India'. 'At' is used for specific points/locations (bus stop, airport etc.), not countries."
-  },
-  {
-    "q": "We, here in India have so many religions, we ate so many different foods.",
-    "options": ["ate → eat", "so many → so much", "here → there", "different → differently"],
-    "answer": 0,
-    "year": "2017",
-    "solution": "The sentence describes an ongoing cultural reality, not a past event. Simple Present 'eat' is correct — 'we eat many different foods'."
-  },
-  {
-    "q": "We wear so much different kinds of dresses. Still we are much united than any other country on the world.",
-    "options": ["so much → so many", "much → more", "on → in", "united → unite"],
-    "answer": 0,
-    "year": "2017",
-    "solution": "'Kinds' is a countable plural noun, requiring 'many' (not 'much' which is for uncountable nouns) — 'so many different kinds'."
-  },
-  {
-    "q": "We should been proud of ourselves. Each one of us have good qualities.",
-    "options": ["should been → should be", "have → has", "Each → Every", "proud → proudly"],
-    "answer": 0,
-    "year": "2017",
-    "solution": "'Should + base verb' is the correct modal structure. 'Been' is a past participle — 'should be' (not 'should been') is correct."
-  },
-  {
-    "q": "In this way we can hoped to succeed in life.",
-    "options": ["can hoped → can hope", "to succeed → succeeding", "in → at", "way → ways"],
-    "answer": 0,
-    "year": "2017",
-    "solution": "'Can + base verb' is the modal structure. 'Hoped' is past tense — 'can hope' (base form) is correct."
-  },
-  {
-    "q": "I met her by chance then I went to getting some medicine which Sister Amy use to give.",
-    "options": ["then → when", "to getting → to get", "use to → used to", "met → meet"],
-    "answer": 2,
-    "year": "2017",
-    "solution": "'Used to' expresses a past habitual action. 'Use to' (without 'd') is incorrect — 'used to give' is the standard form."
-  },
-  {
-    "q": "It was amazing for meet Mother. I start loving just her presence.",
-    "options": ["for → to", "start → started", "just → only", "amazing → amazingly"],
-    "answer": 0,
-    "year": "2017",
-    "solution": "'Amazing to + infinitive' is the correct structure for purpose/experience. 'For meet' is incorrect — 'amazing to meet' is right."
-  },
-  {
-    "q": "Being with her give one a new kind on energy.",
-    "options": ["give → gives", "on → of", "a → an", "Being → Be"],
-    "answer": 1,
-    "year": "2017",
-    "solution": "'A kind of energy' is the correct prepositional phrase. 'Kind on' is not a standard expression — 'kind of' is correct."
-  },
-  {
-    "q": "My meetings of Mother had always been a finer experience. I would go to him whenever I was sad, happy and angry.",
-    "options": ["of → with", "him → her", "finer → finest", "always → ever"],
-    "answer": 1,
-    "year": "2017",
-    "solution": "Mother is a female subject. The pronoun must be 'her' — 'I would go to her' (not 'him')."
-  },
-  {
-    "q": "She said that whenever I go to parties, if here was any leftover food I should picked it up.",
-    "options": ["go → went", "here → there", "picked → pick", "leftover → left over"],
-    "answer": 1,
-    "year": "2017",
-    "solution": "'Here' refers to a location near the speaker. In reported speech/narrative, 'there' is used for a location away from the speaker — 'if there was any leftover food'."
-  },
-  {
-    "q": "Bring it on the poor people. It was one of a most difficult things to do.",
-    "options": ["on → to", "a most → the most", "things → thing", "difficult → difficulty"],
-    "answer": 1,
-    "year": "2017",
-    "solution": "Superlatives use the definite article 'the' — 'one of the most difficult things'. 'A most' is incorrect for a superlative structure."
-  },
-  {
-    "q": "It is well know that in winter birds fly in the sunny South, or in spring, they fly back North to their breed grounds they had leave behind.",
-    "options": ["well know → well known", "breed → breeding", "leave → left", "fly → flies"],
-    "answer": 0,
-    "year": "2017 C",
-    "solution": "'Well known' is the correct compound adjective (past participle). 'Know' is the base verb form — 'well known' is correct."
-  },
-  {
-    "q": "Research is an detailed study of a subject undertaking on a systematic basis in order to increase a stock of knowledge.",
-    "options": ["an → a", "undertaking → undertaken", "increase → increasing", "systematic → system"],
-    "answer": 0,
-    "year": "2016",
-    "solution": "'A' is used before consonant sounds. 'Detailed' begins with the consonant sound /d/ — 'a detailed study' is correct, not 'an'."
-  }
+{"type":"single","year":"2025","q":"Health experts worldwide are concerning about the surge in health problems.","options":["experts → expert","surge → surging","concerning → concerned","health → healthy"],"answer":2},
+{"type":"single","year":"2025","q":"Embrace change as an opportunity for personal growth and allowed it to improve your life.","options":["change → changing","opportunity → opportunities","personal → personally","allowed → allow"],"answer":3},
+{"type":"single","year":"2025","q":"Kanyakumari is popular for its beautiful beaches, unique Vivekananda Rock Memorial and stunning sunrise and sunset view.","options":["is → are","for → of","and → also","view → views"],"answer":3},
+{"type":"single","year":"2025","q":"Mobile phones has become an integral part of life.","options":["phones → phone","has → have","integral → integrally","part → parts"],"answer":1},
+{"type":"single","year":"2025","q":"He usually ate breakfast before he goes to school.","options":["usually → always","ate → eats","before → after","goes → went"],"answer":1},
+{"type":"single","year":"2025","q":"Sleep is important in maintain one's health and well being.","options":["important → importantly","in → to","maintain → maintaining","well → good"],"answer":1},
+{"type":"single","year":"2025","q":"Be the changes you want to see in the world.","options":["Be → Being","changes → change","want → wants","see → seen"],"answer":1},
+{"type":"single","year":"2025","q":"Spend a night under the stars in a traditional camp, where you can experience the warmth of our hospitable and savour the delicious local cuisine.","options":["under → beneath","traditional → tradition","hospitable → hospitality","delicious → deliciously"],"answer":2},
+{"type":"single","year":"2025","q":"The board invite online applications from eligible candidates for the post of a senior English teacher.","options":["board → boards","invite → invites","eligible → eligibly","post → posts"],"answer":1},
+{"type":"single","year":"2025","q":"Place the garment on the ironing board, smoothening out as many wrinkle as possible.","options":["on → in","many → any","wrinkle → wrinkles","possible → impossible"],"answer":2},
+{"type":"single","year":"2025","q":"This product is manufacturing for infants and contains no additives.","options":["product → products","manufacturing → manufactured","infants → infant","additives → additive"],"answer":1},
+{"type":"single","year":"2024 C","q":"I come across this beautiful painting in an antiques store last week.","options":["come → came","beautiful → beautifully","antiques → antique","last → past"],"answer":0},
+{"type":"single","year":"2024 C","q":"Air pollution is continuous damaging the whole ecological system affecting the lives of plants and animals as well.","options":["is → are","continuous → continuously","affecting → effecting","lives → life"],"answer":1},
+{"type":"single","year":"2024 C","q":"She may play the piano when she was only eleven.","options":["may → could","may → ought to","may → must","may → should"],"answer":0},
+{"type":"single","year":"2024","q":"Its flexible to ferry up to seven adults made the Banana Boat hugely appealing.","options":["Its → It's","ferry → ferrying","flexible → flexibility","hugely → huge"],"answer":2},
+{"type":"single","year":"2024","q":"This site use cookies. By continuing to use our website, you are agreeing to our privacy policy.","options":["site → sites","use → uses","continuing → continued","agreeing → agreed"],"answer":1},
+{"type":"single","year":"2024","q":"Material featured on this website should be reproduced free of charge. However, the material has to be reproduced accurately and is not be used in a derogatory or in a misleading context.","options":["should → may","however → therefore","has → have","material → materialism"],"answer":0},
+{"type":"single","year":"2024","q":"This guide describes features that are common to most products. Some features cannot be available on your computer.","options":["features → feature","cannot → may not","available → availability","on → in"],"answer":1},
+{"type":"single","year":"2024","q":"When marginalized voices get a chance to tell their story, anger or sadness would be a justified theme.","options":["marginalized → marginalizing","chance → chances","story → stories","would → will"],"answer":2},
+{"type":"single","year":"2024","q":"\"Where words fail music speak.\" Each batch will contain only five students which will assure personal attention to each student.","options":["fail → fails","speak → speaks","contain → contains","which → who"],"answer":1},
+{"type":"single","year":"2024","q":"We reserve the right to change this website at any time without notice and it is your responsibility to revisit this page from time to time to re-read these terms.","options":["change → changes","any → the","notice → noticing","and → or"],"answer":0},
+{"type":"single","year":"2024","q":"One of the world's most popular domain name seller provides fantastic web hosting packages as well.","options":["popular → popularly","name → names","seller → sellers","provides → provide"],"answer":2},
+{"type":"single","year":"2024","q":"The upma recipe was delicious that I couldn't barely stop myself from having a second helping.","options":["recipe → recipes","was → so","couldn't → could","having → have"],"answer":2},
+{"type":"single","year":"2024","q":"Our latest software solution is designed for help businesses streamline their operations.","options":["latest → late","designed → designing","for → to","streamline → streamlining"],"answer":2},
+{"type":"single","year":"2024","q":"Our goal is to promoting healthier meal choices in schools and at home.","options":["goal → goals","choices → choice","in → at","promoting → promote"],"answer":3},
+{"type":"single","year":"2024","q":"There's a significant correlation of low income and high crime rates.","options":["significant → significantly","correlation → correlate","of → between","rates → rate"],"answer":2},
+{"type":"single","year":"2024","q":"The soup recipe didn't turned out as expected, it was lacking in flavour.","options":["recipe → recipes","didn't → doesn't","turned → turn","lacking → lacked"],"answer":2},
+{"type":"single","year":"2023 C","q":"Nearly all the sports practised nowadays is competitive.","options":["Nearly → Really","practised → practices","is → are","competitive → comparable"],"answer":2},
+{"type":"single","year":"2023 C","q":"Honesty not only succeed in the long run but also brings about mutual trust and confidence.","options":["not only → only not","succeed → succeeds","long → longer","mutual → mutually"],"answer":1},
+{"type":"single","year":"2023 C","q":"Both the boys have got a scolding but either of them paid heed.","options":["Both → Either","have → has","scolding → scold","either → neither"],"answer":3},
+{"type":"single","year":"2023 C","q":"World leaders should work to establish peace of the world so that human and economic resources could be used to meet the pressing demands of mankind.","options":["of → in","so that → although","could → shall","meet → met"],"answer":0},
+{"type":"single","year":"2023 C","q":"A story, to engage the interest of the read, must include mystery and adventure.","options":["engage → engaging","interest → interests","read → reader","include → includes"],"answer":2},
+{"type":"single","year":"2023 C","q":"The winning athletes were felicitation by the State Government and the City Council.","options":["winning → win","were → was","felicitation → felicitated","and → but"],"answer":2},
+{"type":"single","year":"2023 C","q":"There was exciting in the air when the winning school team marched into the hall.","options":["was → were","exciting → excitement","winning → won","marched → marching"],"answer":1},
+{"type":"single","year":"2023 C","q":"The art displays in the wall were a wonderful way for children to express their talent.","options":["displays → displayed","in → on","wonderful → wonderfully","express → expressed"],"answer":1},
+{"type":"single","year":"2023","q":"My sister lives at the ground floor of a two-storeyed apartment and hates living there.","options":["lives → living","at → on","hates → hate","there → their"],"answer":1},
+{"type":"single","year":"2023","q":"I can't never forget my childhood friend Bella.","options":["can't → can","forget → forgotten","my → mine","friend → friends"],"answer":0},
+{"type":"single","year":"2023","q":"Playing outdoor games have benefits over being indoors.","options":["Playing → Play","outdoor → outdoors","have → has","being → be"],"answer":2},
+{"type":"single","year":"2023","q":"The sounds of laughter was echoing in the corridor.","options":["sounds → sound","laughter → laughing","was → were","in → of"],"answer":2},
+{"type":"single","year":"2023","q":"The children were exciting when they saw the leopard.","options":["children → child","were → was","exciting → excited","saw → seen"],"answer":2},
+{"type":"single","year":"2023","q":"Water was vital to human health and fitness.","options":["Water → Waters","was → is","vital → vitally","human → humans"],"answer":1},
+{"type":"paragraph","year":"2022","passage":"She reminds us that it are \\(a) important to visiting museums \\(b) in our country to experience a impact \\(c) that a work of art leaves in our senses. \\(d)","blanks":[{"id":"a","text":"She reminds us that it are","options":["are → is","are → were","are → was","are → be"],"answer":0},{"id":"b","text":"important to visiting museums","options":["important → importantly","to → for","visiting → visit","museums → museum"],"answer":2},{"id":"c","text":"in our country to experience a impact","options":["in → to","experience → experiences","a → an","a → the"],"answer":3},{"id":"d","text":"that a work of art leaves in our senses.","options":["work → works","art → arts","in → on","leaves → left"],"answer":2}]},
+{"type":"paragraph","year":"Term II, 2021-22","passage":"While the worst for covid-19 in India \\(a) seems to be over, one may remain \\(b) vigilant and response quickly to \\(c) any future spike of cases. \\(d)","blanks":[{"id":"a","text":"While the worst for covid-19 in India","options":["for → of","for → to","for → from","for → with"],"answer":0},{"id":"b","text":"seems to be over, one may remain","options":["seems → seem","over → above","may → must","remain → remains"],"answer":2},{"id":"c","text":"vigilant and response quickly to","options":["vigilant → vigilance","response → respond","and → but","quickly → quick"],"answer":1},{"id":"d","text":"any future spike of cases.","options":["any → every","future → further","spike → spikes","of → in"],"answer":3}]},
+{"type":"paragraph","year":"Term II, 2021-22","passage":"A first Indian woman physician Anandibai \\(a) Joshi graduated at 1886. \\(b) About 125 years later, Indian women had start to outnumber men in \\(c) admissions of medical colleges. \\(d)","blanks":[{"id":"a","text":"A first Indian woman physician Anandibai","options":["A → The","physician → physicians","Indian → India","woman → women"],"answer":0},{"id":"b","text":"Joshi graduated at 1886.","options":["graduated → graduating","at → on","at → by","at → in"],"answer":3},{"id":"c","text":"About 125 years later, Indian women had start to outnumber men in","options":["About → Around","later → late","start → started","outnumber → outnumbered"],"answer":2},{"id":"d","text":"admissions of medical colleges.","options":["admissions → admission","of → in","of → to","medical → medically"],"answer":2}]},
+{"type":"paragraph","year":"2020","passage":"Today the girls have broke the \\(a) five-foot barrier and on \\(b) some cases is a half foot taller \\(c) then their grandmothers. \\(d)","blanks":[{"id":"a","text":"Today the girls have broke the","options":["have broke → had broke","girls → girl","have broke → have broken","barrier → barriers"],"answer":2},{"id":"b","text":"five-foot barrier and on","options":["and → but","on → at","on → in","some → any"],"answer":2},{"id":"c","text":"some cases is a half foot taller","options":["is → was","is → are","half → whole","foot → feet"],"answer":1},{"id":"d","text":"then their grandmothers.","options":["then → when","their → there","grandmothers → grandmother","then → than"],"answer":3}]},
+{"type":"paragraph","year":"2020","passage":"Spending time for their kids brings \\(a) immediate as well as long-last \\(b) gain for a parents. According to a \\(c) Research, children with concerned parents are more efficient. \\(d)","blanks":[{"id":"a","text":"Spending time for their kids brings","options":["Spending → To spend","time → times","for → with","kids → kid"],"answer":2},{"id":"b","text":"immediate as well as long-last","options":["brings → bring","immediate → immediately","long-last → long-lasted","long-last → long-lasting"],"answer":3},{"id":"c","text":"gain for a parents. According to a","options":["gain → gains","a → the","According → Accordingly","research → researches"],"answer":1},{"id":"d","text":"Research, children with concerned parents are more efficient.","options":["children → child","concerned → concerning","with → of","efficient → efficiency"],"answer":2}]},
+{"type":"paragraph","year":"2020","passage":"The city police have decide \\(a) to taking stern action against \\(b) drivers which attempt to \\(c) overtake in the left side on city roads. \\(d)","blanks":[{"id":"a","text":"The city police have decide","options":["city → cities","police → policemen","have → has","decide → decided"],"answer":3},{"id":"b","text":"to taking stern action against","options":["to taking → to took","to taking → to take","stern → strictly","against → toward"],"answer":1},{"id":"c","text":"drivers which attempt to","options":["drivers → driver","which → who","which → whom","attempt → attempts"],"answer":1},{"id":"d","text":"overtake in the left side on city roads.","options":["overtake → overtaking","in → on","left → right","in → from"],"answer":3}]},
+{"type":"paragraph","year":"2020 C","passage":"Airports have became an important \\(a) part of big city now. Small planes \\(b) are being use by some people to \\(c) travelling from one city to another. \\(d)","blanks":[{"id":"a","text":"Airports have became an important","options":["Airports → Airport","have → has","became → become","important → importantly"],"answer":2},{"id":"b","text":"part of big city now. Small planes","options":["part → parts","city → cities","now → currently","planes → plane"],"answer":1},{"id":"c","text":"are being use by some people to","options":["are → were","being → been","use → using","use → used"],"answer":3},{"id":"d","text":"travelling from one city to another.","options":["travelling → travelled","from → to","travelling → travel","another → other"],"answer":2}]},
+{"type":"paragraph","year":"Delhi 2019","passage":"The pleasure of being outdoors is fundamental for human \\(a) happiness. There are so much \\(b) to learn and it is an constant \\(c) source of the delight to know more on the \\(d) flora and fauna around. One discover \\(e) how exciting the world is.","blanks":[{"id":"a","text":"is fundamental for human","options":["fundamental → fundamentally","for → to","human → humans","happiness → happy"],"answer":1},{"id":"b","text":"happiness. There are so much","options":["There → Their","are → is","so → too","much → many"],"answer":3},{"id":"c","text":"to learn and it is an constant","options":["to → for","and → but","an → a","constant → constantly"],"answer":2},{"id":"d","text":"source of the delight to know more on the","options":["source → sources","delight → delightful","on → about","flora → flower"],"answer":2},{"id":"e","text":"flora and fauna around. One discover","options":["One → Some","discover → discovers","exciting → excited","world → worlds"],"answer":1}]},
+{"type":"paragraph","year":"AI 2019","passage":"Countries near the equator are much warmer then countries \\(a) farthest to the north and south \\(b) as all knows that Kerala is \\(c) warm than Punjab \\(d) the winter. \\(e)","blanks":[{"id":"a","text":"much warmer then countries","options":["much → more","warmer → warmest","then → than","countries → country"],"answer":2},{"id":"b","text":"farthest to the north and south","options":["farthest → furthest","to → from","the → a","south → north"],"answer":1},{"id":"c","text":"as all knows that Kerala is","options":["as → since","all → everyone","knows → know","that → which"],"answer":2},{"id":"d","text":"warm than Punjab","options":["warm → warmly","warm → warmer","than → then","Punjab → Punjab's"],"answer":1},{"id":"e","text":"on winter.","options":["on → at","on → during","on → in","winter → winters"],"answer":2}]},
+{"type":"paragraph","year":"2018","passage":"In the prisoner's room a candle was burning dimly. A prisoner himself \\(a) sat by the table. Only him back, \\(b) the hair by his head, and his \\(c) hands are visible from the outside \\(d) through any window. \\(e)","blanks":[{"id":"a","text":"burning dimly. A prisoner himself","options":["burning → burnt","dimly → dim","A → The","himself → herself"],"answer":2},{"id":"b","text":"sat by the table. Only him back,","options":["sat → sit","Only → Just","him → his","back → behind"],"answer":2},{"id":"c","text":"the hair by his head, and his","options":["hair → hairs","by → on","his → her","and → but"],"answer":1},{"id":"d","text":"hands are visible from the outside","options":["hands → hand","visible → visibly","from → of","are → were"],"answer":3},{"id":"e","text":"through any window.","options":["through → throughout","any → some","any → the","window → windows"],"answer":2}]},
+{"type":"paragraph","year":"Board Term I, 2017","passage":"On the way back, one of his men fell into a coma. Soon, a blizzard hit them. Scott is \\(a) left with none other alternative \\(b) but to pitch his tent and waiting \\(c) for the blizzard to pass. Unfortunately the blizzard grown fiercer. \\(d)","blanks":[{"id":"a","text":"Soon, a blizzard hit them. Scott is","options":["blizzard → blizzards","hit → hits","is → was","left → leave"],"answer":2},{"id":"b","text":"left with none other alternative","options":["none → no","other → another","alternative → alternatives","but → yet"],"answer":0},{"id":"c","text":"but to pitch his tent and waiting","options":["pitch → pitching","his → their","and → but","waiting → wait"],"answer":3},{"id":"d","text":"for the blizzard to pass. Unfortunately the blizzard grown fiercer.","options":["Unfortunately → Fortunately","blizzard → blizzards","grown → grew","fiercer → fierce"],"answer":2}]},
+{"type":"paragraph","year":"Delhi 2017","passage":"A saint walked the streets of Kolkata. It can happen only at India. It \\(a) is time that us realised our \\(b) strength. We are greater people. We \\(c) have so much religious leaders. \\(d)","blanks":[{"id":"a","text":"It can happen only at India. It","options":["can → could","happen → happened","only → just","at → in"],"answer":3},{"id":"b","text":"is time that us realised our","options":["is → was","that → which","us → we","realised → realize"],"answer":2},{"id":"c","text":"strength. We are greater people. We","options":["are → were","greater → great","people → person","We → Our"],"answer":1},{"id":"d","text":"have so much religious leaders.","options":["have → has","so → very","much → many","religious → religion"],"answer":2}]},
+{"type":"paragraph","year":"Delhi 2017","passage":"We, here in India have so many religions, we ate so many different \\(a) foods, we wear so much different \\(b) kind of dresses. Still we are much \\(c) united than any other country on the world. \\(d)","blanks":[{"id":"a","text":"religions, we ate so many different","options":["religions → religion","we → our","ate → eat","many → much"],"answer":2},{"id":"b","text":"foods, we wear so much different","options":["wear → wore","much → many","different → differently","kinds → kind"],"answer":1},{"id":"c","text":"kind of dresses. Still we are much","options":["Still → Yet","are → were","much → more","united → uniting"],"answer":2},{"id":"d","text":"united than any other country on the world.","options":["any → every","other → another","country → countries","on → in"],"answer":3}]},
+{"type":"paragraph","year":"Delhi 2017","passage":"We should be proud of ourselves. Each one of us have good qualities. \\(a) We can make it better. In this \\(b) way we can hoped to succeed in \\(c) Life. And that gives me a great joy. \\(d)","blanks":[{"id":"a","text":"Each one of us have good qualities.","options":["Each → Every","one → ones","have → has","good → well"],"answer":2},{"id":"b","text":"We can make it better. In this","options":["can → could","make → made","it → them","better → best"],"answer":2},{"id":"c","text":"way we can hoped to succeed in","options":["way → ways","hoped → hoping","succeed → succeeds","hoped → hope"],"answer":3},{"id":"d","text":"Life. And that gives me a great joy.","options":["gives → gave","me → us","great → greatly","joy → joys"],"answer":1}]},
+{"type":"paragraph","year":"AI 2017","passage":"I met her by chance when I went to getting some medicine \\(a) which Sister Amy use to give. \\(b) It was amazing for meet Mother. \\(c) I start loving just her presence. \\(d)","blanks":[{"id":"a","text":"went to getting some medicine","options":["went → go","to → for","getting → get","some → any"],"answer":2},{"id":"b","text":"which Sister Amy use to give.","options":["which → who","Amy → amie","use → used","give → gave"],"answer":2},{"id":"c","text":"It was amazing for meet Mother.","options":["was → is","amazing → amazed","for → to","Mother → mother"],"answer":2},{"id":"d","text":"I start loving just her presence.","options":["start → started","loving → to love","just → only","presence → absent"],"answer":0}]},
+{"type":"paragraph","year":"AI 2017","passage":"Being with her gave one a new kind on energy. When she \\(a) put his hand on your head \\(b) to blessed you or touched \\(c) her you can feel her love. \\(d)","blanks":[{"id":"a","text":"new kind on energy. When she","options":["kind → kinds","on → of","energy → energetic","When → While"],"answer":1},{"id":"b","text":"put his hand on your head","options":["put → puts","his → her","on → over","your → our"],"answer":1},{"id":"c","text":"to blessed you or touched","options":["To → For","blessed → bless","or → and","touched → touching"],"answer":1},{"id":"d","text":"her you can feel her love.","options":["can → could","feel → felt","her → their","love → loved"],"answer":0}]},
+{"type":"paragraph","year":"AI 2017","passage":"My meetings with Mother had always been a finer experience. I \\(a) would go to him whenever I was \\(b) sad, happy and angry. Sometimes \\(c) I would told her what somebody had said to me. \\(d)","blanks":[{"id":"a","text":"been a finer experience. I","options":["had → have","always → ever","finer → fine","experience → experiences"],"answer":2},{"id":"b","text":"would go to him whenever I was","options":["would → will","him → her","whenever → wherever","was → were"],"answer":1},{"id":"c","text":"sad, happy and angry. Sometimes","options":["sad → sadly","happy → happiness","and → or","angry → anger"],"answer":2},{"id":"d","text":"I would told her what somebody had said to me.","options":["would told → would tell","told → telling","what → that","somebody → someone"],"answer":0}]},
+{"type":"paragraph","year":"Foreign 2017","passage":"She said that whenever I went to parties, if here was any \\(a) leftover food I should picked \\(b) it up and bring it on the poor \\(c) people. It was one of a most difficult things to do. \\(d)","blanks":[{"id":"a","text":"to parties, if here was any","options":["parties → party","here → there","was → were","any → some"],"answer":1},{"id":"b","text":"leftover food I should picked","options":["should → must","picked → pick","it → them","up → off"],"answer":1},{"id":"c","text":"it up and bring it on the poor","options":["bring → brought","it → them","on → for","poor → poverty"],"answer":2},{"id":"d","text":"people. It was one of a most difficult things to do.","options":["was → is","one → once","a → the","difficult → difficulty"],"answer":2}]},
+{"type":"paragraph","year":"Delhi 2017 C","passage":"It is well known that in winter birds fly in the sunny South, \\(a) or in spring, they fly back \\(b) North to their breed grounds \\(c) they had leave behind. \\(d)","blanks":[{"id":"a","text":"birds fly in the sunny South,","options":["birds → bird","fly → flew","in → to","sunny → sun"],"answer":2},{"id":"b","text":"or in spring, they fly back","options":["in → during","spring → springs","or → and","back → again"],"answer":2},{"id":"c","text":"North to their breed grounds","options":["North → South","their → there","breed → breeding","grounds → ground"],"answer":2},{"id":"d","text":"they had leave behind.","options":["they → those","had → have","leave → left","behind → before"],"answer":2}]},
+{"type":"paragraph","year":"Delhi 2016","passage":"Research is an detailed study of a \\(a) subject undertaking on a systematic basis \\(b) in order to increase a stock of \\(c) knowledge, including knowledge for man, \\(d) culture and society, that the use of this stock of knowledge to devise new applications. \\(e)","blanks":[{"id":"a","text":"Research is an detailed study of a","options":["an → a","subject → subjects","undertaking → undertaken","systematic → systemically"],"answer":0},{"id":"b","text":"subject undertaking on a systematic basis","options":["subject → subjects","undertaking → undertaken","systematic → systematically","basis → bases"],"answer":1},{"id":"c","text":"in order to increase a stock of","options":["order → orders","increase → increasing","a → the","stock → stocks"],"answer":2},{"id":"d","text":"knowledge, including knowledge for man,","options":["including → includes","for → of","knowledge → knowledgeable","man → men"],"answer":1},{"id":"e","text":"culture and society, that the use of this stock of knowledge to devise new applications.","options":["culture → cultures","society → societies","that → and","devise → devises"],"answer":2}]}
 ]
+
+

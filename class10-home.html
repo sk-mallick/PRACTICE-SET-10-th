@@ -153,6 +153,9 @@
             if (config.engine === 'mcq-fill') {
                 return 'engine/cbse-mcq-engine-fill.html?set=1';
             }
+            if (config.engine === 'cbse-mcq-engine-error') {
+                return 'engine/cbse-mcq-engine-error.html?set=1';
+            }
             if (config.engine === 'mcq') {
                 return `engine/cbse-mcq-engine.html?subject=cbse&level=class10/${folder}&set=1`;
             }
